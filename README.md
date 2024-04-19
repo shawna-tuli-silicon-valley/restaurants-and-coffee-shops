@@ -33,7 +33,7 @@ Mexican
 * Zazil, San Jose
 * Javier's, Newport Beach
 
-#### Other Cuisines
+#### Other Cuisines Tried
 
 French
 * Crepevine, Mountain View
@@ -61,3 +61,6 @@ Korean
 
 Mongolian
 * Little Sheep Mongolian Hot Pot, Irvine
+
+Argentinian
+* El Porteño Empanadas, San Francisco
