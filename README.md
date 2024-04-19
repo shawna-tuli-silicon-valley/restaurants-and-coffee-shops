@@ -1,8 +1,10 @@
 American
 * Gordon Ramsay Hell's Kitchen, Las Vegas
 * Scratch, Mountain View
+* Yard House, San Jose
 
 North Indian
+* Rooh, Palo Alto
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
 * Chaat Bhavan, Sunnyvale
@@ -22,3 +24,13 @@ Mexican
 
 Mediterranean 
 * Fig & Olive, Newport Beach
+
+Asian
+* Straits, San Jose
+
+Italian
+* Maggiano's Little Italy, San Jose
+* Pizza Antica, San Jose
+* Eataly, San Jose
+* Il Fornaio, Santa Clara
+* Buca di Beppo, Palo Alto
