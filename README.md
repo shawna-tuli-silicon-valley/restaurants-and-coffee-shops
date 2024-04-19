@@ -19,3 +19,6 @@ Mexican
 * El Jardin, San Jose
 * Zazil, San Jose
 * Javier's, Newport Beach
+
+Mediterranean 
+* Fig & Olive, Newport Beach
