@@ -36,32 +36,13 @@ Mexican
 
 #### Other Cuisines Tried
 
-French
-* Crepevine, Mountain View
-
-Greek
-* Opa!, Campbell
-
-Mediterranean 
-* Fig & Olive, Newport Beach
-
-Middle Eastern
-* Falafel Drive-In
-
-Asian
-* Straits, San Jose
-
-Chinese
-* San Tung, San Francisco
-
-Taiwanese
-* Din Tai Fung, Irvine
-
-Korean
-* BCD Tofu House, Irvine
-
-Mongolian
-* Little Sheep Mongolian Hot Pot, Irvine
-
-Argentinian
-* El Porteño Empanadas, San Francisco
+* French (Crepevine, Mountain View)
+* Greek (Opa!, Campbell)
+* Mediterranean (Fig & Olive, Newport Beach)
+* Middle Eastern (Falafel Drive-In)
+* Asian (Straits, San Jose)
+* Chinese (San Tung, San Francisco)
+* Taiwanese (Din Tai Fung, Irvine)
+* Korean (BCD Tofu House, Irvine)
+* Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
+* Argentinian (El Porteño Empanadas, San Francisco)
