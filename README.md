@@ -1,3 +1,7 @@
+American
+* Gordon Ramsay Hell's Kitchen, Las Vegas
+* Scratch, Mountain View
+
 North Indian
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
