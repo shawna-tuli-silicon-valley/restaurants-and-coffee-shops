@@ -59,3 +59,5 @@ Taiwanese
 Korean
 * BCD Tofu House, Irvine
 
+Mongolian
+* Little Sheep Mongolian Hot Pot, Irvine
