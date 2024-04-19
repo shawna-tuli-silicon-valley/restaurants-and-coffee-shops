@@ -1,7 +1,8 @@
 North Indian
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
-* Chaat Bhavan, Sunnyvale 
+* Chaat Bhavan, Sunnyvale
+* Spice Affair, Beverly Hills
 
 Thai
 * Coup de Thai, Los Gatos
