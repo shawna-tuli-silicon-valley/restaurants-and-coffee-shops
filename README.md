@@ -1,4 +1,10 @@
 #### Favorite Cuisines
+North Indian
+* Rooh, Palo Alto
+* The Yellow Chili, Santa Clara & Tustin
+* North India Restaurant, San Francisco
+* Chaat Bhavan, Sunnyvale
+* Spice Affair, Beverly Hills
 
 American
 * Bix, San Francisco
@@ -6,13 +12,6 @@ American
 * Scratch, Mountain View
 * Vitality Bowls, Mountain View
 * Yard House, San Jose
-
-North Indian
-* Rooh, Palo Alto
-* The Yellow Chili, Santa Clara & Tustin
-* North India Restaurant, San Francisco
-* Chaat Bhavan, Sunnyvale
-* Spice Affair, Beverly Hills
 
 Thai
 * Coup de Thai, Los Gatos
