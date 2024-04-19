@@ -1,4 +1,5 @@
 American
+* Bix, San Francisco
 * Gordon Ramsay Hell's Kitchen, Las Vegas
 * Scratch, Mountain View
 * Yard House, San Jose
@@ -13,6 +14,7 @@ North Indian
 Thai
 * Coup de Thai, Los Gatos
 * Thai Spice, Los Gatos
+* Must be Thai, San Jose
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
 
