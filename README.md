@@ -18,21 +18,41 @@ Thai
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
 
-Mexican
-* La Victoria Taqueria, San Jose
-* El Jardin, San Jose
-* Zazil, San Jose
-* Javier's, Newport Beach
-
-Mediterranean 
-* Fig & Olive, Newport Beach
-
-Asian
-* Straits, San Jose
-
 Italian
 * Maggiano's Little Italy, San Jose
 * Pizza Antica, San Jose
 * Eataly, San Jose
 * Il Fornaio, Santa Clara
 * Buca di Beppo, Palo Alto
+
+Mexican
+* La Victoria Taqueria, San Jose
+* El Jardin, San Jose
+* Zazil, San Jose
+* Javier's, Newport Beach
+
+Other cuisines I have tried:
+French
+* Crepevine, Mountain View
+
+Greek
+* Opa!, Campbell
+
+Mediterranean 
+* Fig & Olive, Newport Beach
+
+Middle Eastern
+* Falafel Drive-In
+
+Asian
+* Straits, San Jose
+
+Chinese
+* San Tung, San Francisco
+
+Taiwanese
+* Din Tai Fung, Irvine
+
+Korean
+* BCD Tofu House, Irvine
+
