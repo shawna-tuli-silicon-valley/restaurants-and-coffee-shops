@@ -31,7 +31,8 @@ Mexican
 * Zazil, San Jose
 * Javier's, Newport Beach
 
-Other cuisines I have tried:
+# Other cuisines I have tried:
+
 French
 * Crepevine, Mountain View
 
