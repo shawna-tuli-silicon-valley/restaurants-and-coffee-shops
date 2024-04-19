@@ -21,6 +21,7 @@ Thai
 * Mint Leaf Thai Cuisine, Newport Beach
 
 Italian
+* Itria, San Francisco
 * Maggiano's Little Italy, San Jose
 * Pizza Antica, San Jose
 * Eataly, San Jose
