@@ -36,7 +36,7 @@ Mexican
 * Zazil, San Jose
 * Javier's, Newport Beach
 
-#### Other Cuisines Tried
+#### Other Cuisines
 
 * French (Crepevine, Mountain View)
 * Greek (Opa!, Campbell)
