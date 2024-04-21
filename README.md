@@ -1,6 +1,7 @@
 #### Favorite Cuisines
 North Indian
 * Rooh, Palo Alto
+* Zareen's, Mountain View
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
 * Chaat Bhavan, Sunnyvale
@@ -37,6 +38,7 @@ Mexican
 
 #### Other Cuisines
 
+* Pakistani (Pakwan Restaurant, San Francisco)
 * French (Crepevine, Mountain View)
 * Greek (Opa!, Campbell)
 * Mediterranean (Fig & Olive, Newport Beach)
