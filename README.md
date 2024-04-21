@@ -2,6 +2,7 @@
 North Indian
 * Rooh, Palo Alto
 * Zareen's, Mountain View
+* Dishoom, London
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
 * Chaat Bhavan, Sunnyvale
