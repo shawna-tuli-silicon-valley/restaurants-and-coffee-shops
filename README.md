@@ -26,6 +26,12 @@ Thai
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
 
+Mexican
+* La Victoria Taqueria, San Jose
+* El Jardin, San Jose
+* Zazil, San Jose
+* Javier's, Newport Beach
+
 Italian
 * Itria, San Francisco
 * Maggiano's Little Italy, San Jose
@@ -33,12 +39,6 @@ Italian
 * Eataly, San Jose
 * Il Fornaio, Santa Clara
 * Buca di Beppo, Palo Alto
-
-Mexican
-* La Victoria Taqueria, San Jose
-* El Jardin, San Jose
-* Zazil, San Jose
-* Javier's, Newport Beach
 
 #### Other Cuisines
 
