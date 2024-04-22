@@ -53,6 +53,7 @@ Italian
 * Chinese (San Tung, San Francisco)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (BCD Tofu House, Irvine)
+* Vietnamese (Irvine)
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
 * Ethiopian (Enssaro, Oakland)
