@@ -14,7 +14,7 @@ American
 * Scratch, Mountain View
 * Vitality Bowls, Mountain View
 * Yard House, San Jose
-* Sweet Pea's Cafe, Los Gatos
+* Sweet Pea's Cafe and Catering, Los Gatos
 
 Thai
 * Coup de Thai, Los Gatos
