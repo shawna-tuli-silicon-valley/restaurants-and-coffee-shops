@@ -8,6 +8,7 @@ North Indian
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
 * Chaat Bhavan, Sunnyvale
+* Urban Kitchen, Newark
 * Spice Affair, Beverly Hills
 
 American
@@ -34,6 +35,7 @@ Mexican
 
 Italian
 * Itria, San Francisco
+* Tony's Pizza Napoletana, San Francisco
 * Maggiano's Little Italy, San Jose
 * Pizza Antica, San Jose
 * Eataly, San Jose
