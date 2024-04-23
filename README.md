@@ -25,6 +25,7 @@ American
 * Stacks Campbell, Campbell
 * The Table, San Jose
 * Eureka!, Mountain View
+* Steins Beer Garden & Restaurant, Mountain View
 
 Thai
 * Coup de Thai, Los Gatos
