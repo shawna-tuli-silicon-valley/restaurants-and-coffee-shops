@@ -57,7 +57,7 @@ Italian
 * French (Crepevine, Mountain View)
 * Greek (Opa!, Campbell)
 * Mediterranean (Fig & Olive, Newport Beach)
-* Middle Eastern (Falafel Drive-In)
+* Middle Eastern (Falafel Drive-In, San Jose)
 * Asian (Straits, San Jose)
 * Chinese (San Tung, San Francisco)
 * Taiwanese (Din Tai Fung, Irvine)
