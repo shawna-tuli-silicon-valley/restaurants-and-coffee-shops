@@ -19,6 +19,8 @@ American
 * Vitality Bowls, Mountain View
 * Yard House, San Jose
 * Sweet Pea's Cafe and Catering, Los Gatos
+* Mendocino Farms, Palo Alto
+* Pizza My Heart, Los Gatos
 
 Thai
 * Coup de Thai, Los Gatos
