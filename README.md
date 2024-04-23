@@ -1,5 +1,6 @@
 #### Favorite Cuisines
 North Indian
+* Cafe Baadal, Mountain View
 * Rooh, Palo Alto
 * Zareen's, Mountain View
 * Deliwala Chaat, Sunnyvale
