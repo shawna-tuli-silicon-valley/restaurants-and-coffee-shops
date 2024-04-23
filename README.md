@@ -41,6 +41,7 @@ Mexican
 * El Jardin, San Jose
 * Zazil, San Jose
 * Javier's, Newport Beach
+* SOL Mexican Cocina, Irvine
 
 Italian
 * Itria, San Francisco
