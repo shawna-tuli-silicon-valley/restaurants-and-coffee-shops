@@ -21,6 +21,10 @@ American
 * Sweet Pea's Cafe and Catering, Los Gatos
 * Mendocino Farms, Palo Alto
 * Pizza My Heart, Los Gatos
+* Blue Line Pizza, Campbell
+* Stacks Campbell, Campbell
+* The Table, San Jose
+* Eureka!, Mountain View
 
 Thai
 * Coup de Thai, Los Gatos
