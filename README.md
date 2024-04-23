@@ -31,6 +31,7 @@ Thai
 * Mint Leaf Thai Cuisine, Newport Beach
 
 Mexican
+* Andalé, Los Gatos
 * La Victoria Taqueria, San Jose
 * El Jardin, San Jose
 * Zazil, San Jose
