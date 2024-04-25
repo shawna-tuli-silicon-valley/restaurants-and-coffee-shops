@@ -73,3 +73,4 @@
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
 * Ethiopian (Enssaro, Oakland)
+* Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
