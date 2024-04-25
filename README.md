@@ -1,5 +1,5 @@
 #### Favorite Cuisines
-North Indian
+1. North Indian
 * Cafe Baadal, Mountain View
 * Rooh, Palo Alto
 * Zareen's, Mountain View
@@ -15,7 +15,7 @@ North Indian
 * Aditi Indian Cuisine, San Francisco
 * Pakwan Restaurant, San Francisco
 
-American
+2. American
 * Bix, San Francisco
 * Gordon Ramsay Hell's Kitchen, Las Vegas
 * Scratch, Mountain View
@@ -30,7 +30,7 @@ American
 * Eureka!, Mountain View
 * Steins Beer Garden & Restaurant, Mountain View
 
-Thai
+3. Thai
 * Coup de Thai, Los Gatos
 * Thai Spice, Los Gatos
 * Must be Thai, San Jose
@@ -38,7 +38,7 @@ Thai
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
 
-Mexican
+4. Mexican
 * Andalé, Los Gatos
 * La Victoria Taqueria, San Jose
 * El Jardin, San Jose
@@ -46,7 +46,7 @@ Mexican
 * Javier's, Newport Beach
 * SOL Mexican Cocina, Irvine
 
-Italian
+5. Italian
 * Itria, San Francisco
 * Tony's Pizza Napoletana, San Francisco
 * Maggiano's Little Italy, San Jose
