@@ -32,6 +32,8 @@
 * Sweet Tomatoes, Irvine
 * Sweetgreen, Sunnyvale
 * Snooze A.M. Eatery, Tustin
+* The Cheesecake Factory, San Jose
+* MOD Pizza, San Jose
 
 3. Thai
 * Coup de Thai, Los Gatos
@@ -66,7 +68,7 @@
 * Mediterranean (Fig & Olive, Newport Beach)
 * Middle Eastern (Falafel Drive-In, San Jose)
 * Asian (Straits, San Jose)
-* Chinese (San Tung, San Francisco)
+* Chinese (San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (BCD Tofu House, Irvine)
 * Vietnamese (Irvine)
