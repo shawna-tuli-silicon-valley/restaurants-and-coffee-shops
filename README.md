@@ -76,4 +76,5 @@
 * Pan-Asian (Boiling Point, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
 * Ethiopian (Enssaro, Oakland)
+* Burmese (Rangoon Ruby Burmese Cuisine, Palo Alto)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
