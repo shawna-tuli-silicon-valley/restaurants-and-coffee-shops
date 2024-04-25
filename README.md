@@ -11,6 +11,9 @@ North Indian
 * Chaat Bhavan, Sunnyvale
 * Urban Kitchen, Newark
 * Spice Affair, Beverly Hills
+* Amber India, San Jose
+* Aditi Indian Cuisine, San Francisco
+* Pakwan Restaurant, San Francisco
 
 American
 * Bix, San Francisco
