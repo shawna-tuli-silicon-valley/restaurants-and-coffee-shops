@@ -29,6 +29,8 @@
 * The Table, San Jose
 * Eureka!, Mountain View
 * Steins Beer Garden & Restaurant, Mountain View
+* Sweet Tomatoes, Irvine
+* Sweetgreen, Sunnyvale
 
 3. Thai
 * Coup de Thai, Los Gatos
