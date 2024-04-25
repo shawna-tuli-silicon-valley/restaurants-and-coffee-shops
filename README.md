@@ -31,6 +31,7 @@
 * Steins Beer Garden & Restaurant, Mountain View
 * Sweet Tomatoes, Irvine
 * Sweetgreen, Sunnyvale
+* Snooze A.M. Eatery, Tustin
 
 3. Thai
 * Coup de Thai, Los Gatos
