@@ -63,7 +63,7 @@
 #### Other Cuisines
 
 * Pakistani (Pakwan Restaurant, San Francisco)
-* French (Crepevine, Mountain View)
+* French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell)
 * Mediterranean (Fig & Olive, Newport Beach)
 * Middle Eastern (Falafel Drive-In, San Jose)
