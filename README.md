@@ -34,6 +34,7 @@
 * Snooze A.M. Eatery, Tustin
 * The Cheesecake Factory, San Jose
 * MOD Pizza, San Jose
+* Son & Garden, Menlo Park
 
 3. Thai
 * Coup de Thai, Los Gatos
