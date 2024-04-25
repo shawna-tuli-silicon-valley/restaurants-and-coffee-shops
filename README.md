@@ -73,6 +73,7 @@
 * Korean (BCD Tofu House, Irvine)
 * Vietnamese (Irvine)
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
+* Pan-Asian (Boiling Point, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
 * Ethiopian (Enssaro, Oakland)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
