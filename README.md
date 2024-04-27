@@ -46,6 +46,7 @@
 * Starbird Chicken, Campbell
 * Ike's Love & Sandwiches, San Jose
 * Jersey Mike's Subs, San Jose
+* Southern Kitchen, Los Gatos
 
 3. Thai
 * Coup de Thai, Los Gatos
