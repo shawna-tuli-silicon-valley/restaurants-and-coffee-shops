@@ -65,6 +65,7 @@
 * Eataly, San Jose
 * Il Fornaio, Santa Clara
 * Buca di Beppo, Palo Alto
+* Obicà Mozzarella Bar Pizza e Cucina, Manhattan
 
 #### Other Cuisines
 
@@ -87,5 +88,5 @@
 * Ethiopian (Enssaro, Oakland)
 * Burmese (Rangoon Ruby Burmese Cuisine, Palo Alto)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
-* Spanish (Cascal, Mountain View)
+* Spanish (Cascal, Mountain View; La Nacional, Manhattan)
   
