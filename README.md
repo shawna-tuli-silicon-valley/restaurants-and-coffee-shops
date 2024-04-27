@@ -16,6 +16,7 @@
 * Pakwan Restaurant, San Francisco
 * Desi Contemporary Indian Casual & Gabru Bar, Campbell
 * Chaat Cafe, San Jose
+* Sakoon, Fremont
 
 2. American
 * Bix, San Francisco
