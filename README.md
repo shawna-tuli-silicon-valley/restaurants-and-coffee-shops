@@ -77,6 +77,7 @@
 * Casa Orozco, Dublin
 * El Amigo, San Jose
 * Pedro's Restaurant & Cantina, Santa Clara
+* Sun of Wolf, Palo Alto
 
 5. Italian
 * Itria, San Francisco
