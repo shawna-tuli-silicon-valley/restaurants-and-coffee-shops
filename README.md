@@ -47,6 +47,8 @@
 * Ike's Love & Sandwiches, San Jose
 * Jersey Mike's Subs, San Jose
 * Southern Kitchen, Los Gatos
+* Malibu Farm, Malibu
+* Orchard City Kitchen, Campbell
 
 3. Thai
 * Coup de Thai, Los Gatos
