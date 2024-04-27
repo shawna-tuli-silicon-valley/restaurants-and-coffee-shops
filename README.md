@@ -50,6 +50,7 @@
 * Southern Kitchen, Los Gatos
 * Malibu Farm, Malibu
 * Orchard City Kitchen, Campbell
+* Zpizza, Sunnyvale
 
 3. Thai
 * Coup de Thai, Los Gatos
