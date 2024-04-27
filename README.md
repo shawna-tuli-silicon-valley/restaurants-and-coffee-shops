@@ -72,6 +72,7 @@
 * SOL Mexican Cocina, Irvine
 * Casa Orozco, Dublin
 * El Amigo, San Jose
+* Pedro's Restaurant & Cantina, Santa Clara
 
 5. Italian
 * Itria, San Francisco
