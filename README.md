@@ -14,6 +14,7 @@
 * Amber India, San Jose
 * Aditi Indian Cuisine, San Francisco
 * Pakwan Restaurant, San Francisco
+* Desi Contemporary Indian Casual & Gabru Bar, Campbell
 
 2. American
 * Bix, San Francisco
