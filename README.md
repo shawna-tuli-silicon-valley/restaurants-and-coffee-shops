@@ -68,6 +68,7 @@
 * Greek (Opa!, Campbell)
 * Mediterranean (Fig & Olive, Newport Beach)
 * Middle Eastern (Falafel Drive-In, San Jose)
+* Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose)
 * Chinese (San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
@@ -80,3 +81,4 @@
 * Burmese (Rangoon Ruby Burmese Cuisine, Palo Alto)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View)
+  
