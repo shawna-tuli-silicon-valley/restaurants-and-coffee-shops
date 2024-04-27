@@ -70,6 +70,7 @@
 * Javier's, Newport Beach
 * SOL Mexican Cocina, Irvine
 * Casa Orozco, Dublin
+* El Amigo, San Jose
 
 5. Italian
 * Itria, San Francisco
