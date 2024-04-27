@@ -96,7 +96,7 @@
 * Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose)
 * South Indian (Madras Café, Sunnyvale)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
-* Greek (Opa!, Campbell)
+* Greek (Opa!, Campbell; Taverna, Palo Alto)
 * Mediterranean (Fig & Olive, Newport Beach; Olea Social, Mediterranean)
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
