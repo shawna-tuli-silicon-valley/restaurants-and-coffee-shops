@@ -68,6 +68,7 @@
 * Zazil, San Jose
 * Javier's, Newport Beach
 * SOL Mexican Cocina, Irvine
+* Casa Orozco, Dublin
 
 5. Italian
 * Itria, San Francisco
