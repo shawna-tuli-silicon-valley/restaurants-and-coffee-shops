@@ -53,6 +53,7 @@
 * Zpizza, Sunnyvale
 * Purple Onion, Los Gatos
 * Main Street Burgers, Los Gatos
+* Panera Bread, San Jose
 
 3. Thai
 * Coup de Thai, Los Gatos
