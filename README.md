@@ -52,6 +52,7 @@
 * Orchard City Kitchen, Campbell
 * Zpizza, Sunnyvale
 * Purple Onion, Los Gatos
+* Main Street Burgers, Los Gatos
 
 3. Thai
 * Coup de Thai, Los Gatos
@@ -110,4 +111,5 @@
 * Burmese (Rangoon Ruby Burmese Cuisine, Palo Alto)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York)
+* Israeli (Orens Hummus, Los Gatos)
   
