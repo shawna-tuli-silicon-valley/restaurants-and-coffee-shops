@@ -75,7 +75,7 @@
 * South Indian (Madras Café, Sunnyvale)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell)
-* Mediterranean (Fig & Olive, Newport Beach)
+* Mediterranean (Fig & Olive, Newport Beach; Olea Social, Mediterranean)
 * Middle Eastern (Falafel Drive-In, San Jose)
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose)
