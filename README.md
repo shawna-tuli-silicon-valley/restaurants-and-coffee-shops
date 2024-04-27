@@ -17,6 +17,7 @@
 * Desi Contemporary Indian Casual & Gabru Bar, Campbell
 * Chaat Cafe, San Jose
 * Sakoon, Fremont
+* Masala King, New York
 
 2. American
 * Bix, San Francisco
@@ -46,7 +47,7 @@
 * Tommy Thai, Mountain View
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
-* Thai Villa, Manhattan
+* Thai Villa, New York
 * New Krungthai Restaurant, San Jose
 
 4. Mexican
@@ -65,8 +66,8 @@
 * Eataly, San Jose
 * Il Fornaio, Santa Clara
 * Buca di Beppo, Palo Alto
-* Obicà Mozzarella Bar Pizza e Cucina, Manhattan
-* La Masseria, Manhattan
+* Obicà Mozzarella Bar Pizza e Cucina, New York
+* La Masseria, New York
 
 #### Other Cuisines
 
@@ -89,5 +90,5 @@
 * Ethiopian (Enssaro, Oakland)
 * Burmese (Rangoon Ruby Burmese Cuisine, Palo Alto)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
-* Spanish (Cascal, Mountain View; La Nacional, Manhattan)
+* Spanish (Cascal, Mountain View; La Nacional, New York)
   
