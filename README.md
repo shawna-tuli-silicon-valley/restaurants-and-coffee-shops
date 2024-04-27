@@ -62,6 +62,8 @@
 * Mint Leaf Thai Cuisine, Newport Beach
 * Thai Villa, New York
 * New Krungthai Restaurant, San Jose
+* Mint Leaf Cuisine, Saratoga
+* Amarin Thai Cuisine, San Jose
 
 4. Mexican
 * Andalé, Los Gatos
