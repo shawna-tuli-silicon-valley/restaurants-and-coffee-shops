@@ -42,6 +42,8 @@
 * MOD Pizza, San Jose
 * Son & Garden, Menlo Park
 * Joe's Pizza, New York
+* Wingstop, San Jose
+* Starbird Chicken, Campbell
 
 3. Thai
 * Coup de Thai, Los Gatos
