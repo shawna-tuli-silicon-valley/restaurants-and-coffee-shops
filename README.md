@@ -20,6 +20,7 @@
 * Masala King, New York
 * Saravana Bhavan, New York
 * Samudra, New York
+* Vik's Chaat House, Berkeley
 
 2. American
 * Bix, San Francisco
@@ -78,6 +79,7 @@
 * Buca di Beppo, Palo Alto
 * Obicà Mozzarella Bar Pizza e Cucina, New York
 * La Masseria, New York
+* PaStation, London
 
 #### Other Cuisines
 
