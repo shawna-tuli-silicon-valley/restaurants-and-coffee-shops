@@ -19,6 +19,7 @@
 * Sakoon, Fremont
 * Masala King, New York
 * Saravana Bhavan, New York
+* Samudra, New York
 
 2. American
 * Bix, San Francisco
