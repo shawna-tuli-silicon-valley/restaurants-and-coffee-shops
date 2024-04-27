@@ -51,6 +51,7 @@
 * Malibu Farm, Malibu
 * Orchard City Kitchen, Campbell
 * Zpizza, Sunnyvale
+* Purple Onion, Los Gatos
 
 3. Thai
 * Coup de Thai, Los Gatos
