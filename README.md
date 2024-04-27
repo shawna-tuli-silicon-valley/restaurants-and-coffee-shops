@@ -44,6 +44,7 @@
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
 * Thai Villa, Manhattan
+* New Krungthai Restaurant, San Jose
 
 4. Mexican
 * Andalé, Los Gatos
