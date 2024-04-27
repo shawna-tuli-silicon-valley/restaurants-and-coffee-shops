@@ -66,6 +66,7 @@
 * Il Fornaio, Santa Clara
 * Buca di Beppo, Palo Alto
 * Obicà Mozzarella Bar Pizza e Cucina, Manhattan
+* La Masseria, Manhattan
 
 #### Other Cuisines
 
