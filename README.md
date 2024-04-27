@@ -91,7 +91,7 @@
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell)
 * Mediterranean (Fig & Olive, Newport Beach; Olea Social, Mediterranean)
-* Middle Eastern (Falafel Drive-In, San Jose)
+* Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose)
 * Chinese (San Tung, San Francisco; P.F. Chang's, Irvine)
