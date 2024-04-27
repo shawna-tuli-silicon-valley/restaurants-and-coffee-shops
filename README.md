@@ -39,6 +39,7 @@
 * The Cheesecake Factory, San Jose
 * MOD Pizza, San Jose
 * Son & Garden, Menlo Park
+* Joe's Pizza, New York
 
 3. Thai
 * Coup de Thai, Los Gatos
