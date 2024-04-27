@@ -66,7 +66,7 @@
 #### Other Cuisines
 
 * Punjabi (Kabab & Curry's, San Jose)
-* Pakistani (Pakwan Restaurant, San Francisco)
+* Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose)
 * South Indian (Madras Café, Sunnyvale)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell)
