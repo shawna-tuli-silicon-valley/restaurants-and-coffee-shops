@@ -79,3 +79,4 @@
 * Ethiopian (Enssaro, Oakland)
 * Burmese (Rangoon Ruby Burmese Cuisine, Palo Alto)
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
+* Spanish (Cascal, Mountain View)
