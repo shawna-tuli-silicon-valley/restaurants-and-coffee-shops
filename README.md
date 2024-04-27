@@ -43,6 +43,7 @@
 * Tommy Thai, Mountain View
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
+* Thai Villa, Manhattan
 
 4. Mexican
 * Andalé, Los Gatos
