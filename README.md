@@ -15,6 +15,7 @@
 * Aditi Indian Cuisine, San Francisco
 * Pakwan Restaurant, San Francisco
 * Desi Contemporary Indian Casual & Gabru Bar, Campbell
+* Chaat Cafe, San Jose
 
 2. American
 * Bix, San Francisco
