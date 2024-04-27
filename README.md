@@ -44,6 +44,8 @@
 * Joe's Pizza, New York
 * Wingstop, San Jose
 * Starbird Chicken, Campbell
+* Ike's Love & Sandwiches, San Jose
+* Jersey Mike's Subs, San Jose
 
 3. Thai
 * Coup de Thai, Los Gatos
