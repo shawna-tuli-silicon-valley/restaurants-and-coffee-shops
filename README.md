@@ -99,6 +99,7 @@
 * Obicà Mozzarella Bar Pizza e Cucina, New York
 * La Masseria, New York
 * PaStation, London
+* Gardino's Ristorante Italiano, Los Gatos
 
 #### Other Cuisines
 
