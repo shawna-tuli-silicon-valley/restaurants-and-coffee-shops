@@ -62,6 +62,7 @@
 * Mo's Campbell, Campbell
 * Le Boulanger, San Jose
 * Willow Street Wood-Fired Pizza, Los Gatos
+* Westville, New York
 
 3. Thai
 * Coup de Thai, Los Gatos
