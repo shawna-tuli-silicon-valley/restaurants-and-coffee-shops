@@ -51,7 +51,7 @@
 * Malibu Farm, Malibu
 * Orchard City Kitchen, Campbell
 * Zpizza, Sunnyvale
-* Purple Onion, Los Gatos
+* Purple Onion Cafe, Los Gatos
 * Main Street Burgers, Los Gatos
 * Panera Bread, San Jose
 * Scrambl'z, San Jose
