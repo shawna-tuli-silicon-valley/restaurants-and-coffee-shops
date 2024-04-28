@@ -54,6 +54,9 @@
 * Purple Onion, Los Gatos
 * Main Street Burgers, Los Gatos
 * Panera Bread, San Jose
+* Scrambl'z, San Jose
+* IHOP, San Jose
+* Denny's, Irvine
 
 3. Thai
 * Coup de Thai, Los Gatos
@@ -78,6 +81,7 @@
 * El Amigo, San Jose
 * Pedro's Restaurant & Cantina, Santa Clara
 * Sun of Wolf, Palo Alto
+* Chipotle Mexican Grill, San Jose
 
 5. Italian
 * Itria, San Francisco
@@ -102,7 +106,7 @@
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose)
-* Chinese (San Tung, San Francisco; P.F. Chang's, Irvine)
+* Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (BCD Tofu House, Irvine)
 * Vietnamese (North Restaurant, Los Gatos)
