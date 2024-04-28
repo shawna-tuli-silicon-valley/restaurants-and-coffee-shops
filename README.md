@@ -57,6 +57,8 @@
 * Scrambl'z, San Jose
 * IHOP, San Jose
 * Denny's, Irvine
+* Hash House, Campbell
+* Los Gatos Cafe Uptown, Los Gatos
 
 3. Thai
 * Coup de Thai, Los Gatos
