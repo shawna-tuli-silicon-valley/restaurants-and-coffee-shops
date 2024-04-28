@@ -105,7 +105,7 @@
 * Chinese (San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (BCD Tofu House, Irvine)
-* Vietnamese (Irvine)
+* Vietnamese (North Restaurant, Los Gatos)
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
 * Pan-Asian (Boiling Point, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
