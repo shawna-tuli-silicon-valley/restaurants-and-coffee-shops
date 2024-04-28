@@ -59,6 +59,9 @@
 * Denny's, Irvine
 * Hash House, Campbell
 * Los Gatos Cafe Uptown, Los Gatos
+* Mo's Campbell, Campbell
+* Le Boulanger, San Jose
+* Willow Street Wood-Fired Pizza, Los Gatos
 
 3. Thai
 * Coup de Thai, Los Gatos
@@ -120,4 +123,5 @@
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York)
 * Israeli (Orens Hummus, Los Gatos)
+* International (Noodles and Company, San Jose)
   
