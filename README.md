@@ -75,6 +75,7 @@
 * New Krungthai Restaurant, San Jose
 * Mint Leaf Cuisine, Saratoga
 * Amarin Thai Cuisine, San Jose
+* Thai Nakorn, San Bruno
 
 4. Mexican
 * Andalé, Los Gatos
@@ -88,19 +89,6 @@
 * Pedro's Restaurant & Cantina, Santa Clara
 * Sun of Wolf, Palo Alto
 * Chipotle Mexican Grill, San Jose
-
-5. Italian
-* Itria, San Francisco
-* Tony's Pizza Napoletana, San Francisco
-* Maggiano's Little Italy, San Jose
-* Pizza Antica, San Jose
-* Eataly, San Jose
-* Il Fornaio, Santa Clara
-* Buca di Beppo, Palo Alto
-* Obicà Mozzarella Bar Pizza e Cucina, New York
-* La Masseria, New York
-* PaStation, London
-* Gardino's Ristorante Italiano, Los Gatos
 
 #### Other Cuisines
 
@@ -125,5 +113,6 @@
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York)
 * Israeli (Orens Hummus, Los Gatos)
+* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos)
 * International (Noodles and Company, San Jose)
   
