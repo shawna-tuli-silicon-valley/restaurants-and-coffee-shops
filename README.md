@@ -21,6 +21,7 @@
 * Saravana Bhavan, New York
 * Samudra, New York
 * Vik's Chaat House, Berkeley
+* Rowdy Rooster, New York
 
 2. American
 * Bix, San Francisco
