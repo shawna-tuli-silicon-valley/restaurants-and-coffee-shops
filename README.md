@@ -81,7 +81,6 @@
 4. Mexican
 * Andalé, Los Gatos
 * La Victoria Taqueria, San Jose
-* El Jardin, San Jose
 * Zazil, San Jose
 * Javier's, Newport Beach
 * SOL Mexican Cocina, Irvine
@@ -106,7 +105,7 @@
 * Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (BCD Tofu House, Irvine)
-* Vietnamese (North Restaurant, Los Gatos)
+* Vietnamese (North Restaurant, Los Gatos; Le Colonial, San Francisco)
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
 * Pan-Asian (Boiling Point, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
@@ -117,4 +116,11 @@
 * Israeli (Orens Hummus, Los Gatos)
 * Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos)
 * International (Noodles and Company, San Jose)
+
+#### Bars
+* ZOE Cocktail Bar & Bites, San Francisco
+* Novela, San Francisco
+* El Jardin Tequila Bar, San Jose
+* The Wine Room, Palo Alto
+* Vbar, San Jose
   
