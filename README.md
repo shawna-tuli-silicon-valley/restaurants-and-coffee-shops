@@ -119,7 +119,7 @@
 * Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos)
 * International (Noodles and Company, San Jose)
 * Irish (The Mean Fiddler, New York)
-* Indo-Chinese (Spice Symphony, New York)
+* Indian-Chinese (Spice Symphony, New York)
 
 #### Bars
 * ZOE Cocktail Bar & Bites, San Francisco
