@@ -22,6 +22,8 @@
 * Samudra, New York
 * Vik's Chaat House, Berkeley
 * Rowdy Rooster, New York
+* Karahi Indian Cuisine Karahi, New York
+* Spice Symphony, New York
 
 2. American
 * Bix, San Francisco
@@ -117,6 +119,7 @@
 * Israeli (Orens Hummus, Los Gatos)
 * Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos)
 * International (Noodles and Company, San Jose)
+* Irish (The Mean Fiddler, New York)
 
 #### Bars
 * ZOE Cocktail Bar & Bites, San Francisco
