@@ -23,7 +23,7 @@
 * Vik's Chaat House, Berkeley
 * Rowdy Rooster, New York
 * Karahi Indian Cuisine Karahi, New York
-* Patiala Bar and Grill, New York
+* Patiala Indian Grill & Bar, New York
 
 2. American
 * Bix, San Francisco
