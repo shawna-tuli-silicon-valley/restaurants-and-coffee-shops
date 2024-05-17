@@ -67,6 +67,7 @@
 * Willow Street Wood-Fired Pizza, Los Gatos
 * Westville, New York
 * Souplantation, Irvine
+* Grill 57, New York
 
 3. Thai
 * Coup de Thai, Los Gatos
