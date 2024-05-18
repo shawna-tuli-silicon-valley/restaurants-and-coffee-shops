@@ -94,6 +94,7 @@
 * Sun of Wolf, Palo Alto
 * Chipotle Mexican Grill, San Jose
 * Los Tacos No. 1, New York
+* Puesto, Santa Clara
 
 #### Other Cuisines
 
