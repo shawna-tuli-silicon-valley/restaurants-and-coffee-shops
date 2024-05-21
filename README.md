@@ -109,7 +109,7 @@
 * Asian (Straits, San Jose)
 * Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
-* Korean (BCD Tofu House, Irvine)
+* Korean (Gen Korean BBQ House, Irvine; BCD Tofu House, Irvine)
 * Vietnamese (North Restaurant, Los Gatos; Le Colonial, San Francisco)
 * Mongolian (Little Sheep Mongolian Hot Pot, Irvine; Happy Lamb Hot Pot, Mountain View)
 * Pan-Asian (Boiling Point, Irvine)
