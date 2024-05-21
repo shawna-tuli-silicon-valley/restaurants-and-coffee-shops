@@ -111,7 +111,7 @@
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (BCD Tofu House, Irvine)
 * Vietnamese (North Restaurant, Los Gatos; Le Colonial, San Francisco)
-* Mongolian (Little Sheep Mongolian Hot Pot, Irvine)
+* Mongolian (Little Sheep Mongolian Hot Pot, Irvine; Happy Lamb Hot Pot, Mountain View)
 * Pan-Asian (Boiling Point, Irvine)
 * Argentinian (El Porteño Empanadas, San Francisco)
 * Ethiopian (Enssaro, Oakland)
