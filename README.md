@@ -124,6 +124,7 @@
 * Irish (The Mean Fiddler, New York)
 * Indian-Chinese (Spice Symphony, New York)
 * California (Playa Betty's, New York; California Pizza Kitchen, Palo Alto)
+* New American (Steins Beer Garden & Restaurant, Mountain View)
 
 #### Bars
 * ZOE Cocktail Bar & Bites, San Francisco
