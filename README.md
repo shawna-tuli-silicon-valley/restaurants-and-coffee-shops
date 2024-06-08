@@ -126,6 +126,7 @@
 * California (Playa Betty's, New York; California Pizza Kitchen, Palo Alto)
 * New American (Steins Beer Garden & Restaurant, Mountain View)
 * German (Das Bierhauz, Mountain View)
+* Nepali (Dancing Yak, San Francisco)
 
 #### Bars
 * ZOE Cocktail Bar & Bites, San Francisco
