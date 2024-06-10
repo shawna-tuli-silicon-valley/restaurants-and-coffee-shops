@@ -1,5 +1,9 @@
 #### Favorite Cuisines
-1. North Indian
+1. Punjabi
+* Kabab & Curry's, San Jose
+* Urban Kitchen, Newark
+
+2. North Indian
 * Cafe Baadal, Mountain View
 * Rooh, Palo Alto
 * Zareen's, Mountain View
@@ -9,7 +13,6 @@
 * The Yellow Chili, Santa Clara & Tustin
 * North India Restaurant, San Francisco
 * Chaat Bhavan, Sunnyvale
-* Urban Kitchen, Newark
 * Spice Affair, Beverly Hills
 * Amber India, San Jose
 * Aditi Indian Cuisine, San Francisco
@@ -25,7 +28,7 @@
 * Karahi Indian Cuisine Karahi, New York
 * Patiala Indian Grill and Bar, New York
 
-2. American
+3. American
 * Bix, San Francisco
 * Gordon Ramsay Hell's Kitchen, Las Vegas
 * Scratch, Mountain View
@@ -69,7 +72,7 @@
 * Souplantation, Irvine
 * Grill 57, New York
 
-3. Thai
+4. Thai
 * Coup de Thai, Los Gatos
 * Thai Spice, Los Gatos
 * Must be Thai, San Jose
@@ -82,7 +85,7 @@
 * Amarin Thai Cuisine, San Jose
 * Thai Nakorn, San Bruno
 
-4. Mexican
+5. Mexican
 * Andalé, Los Gatos
 * La Victoria Taqueria, San Jose
 * Zazil, San Jose
@@ -98,7 +101,6 @@
 
 #### Other Cuisines
 
-* Punjabi (Kabab & Curry's, San Jose)
 * Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose)
 * South Indian (Madras Café, Sunnyvale)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
