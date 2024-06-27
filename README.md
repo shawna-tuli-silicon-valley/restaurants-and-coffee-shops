@@ -71,6 +71,7 @@
 * Westville, New York
 * Souplantation, Irvine
 * Grill 57, New York
+* Main Street Burgers, Los Gatos
 
 4. Thai
 * Coup de Thai, Los Gatos
