@@ -72,6 +72,7 @@
 * Souplantation, Irvine
 * Grill 57, New York
 * Main Street Burgers, Los Gatos
+* Manresa Bread, Los Gatos
 
 4. Thai
 * Coup de Thai, Los Gatos
