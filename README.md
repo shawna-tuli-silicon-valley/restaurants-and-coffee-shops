@@ -129,6 +129,7 @@
 * New American (Steins Beer Garden & Restaurant, Mountain View)
 * German (Das Bierhauz, Mountain View)
 * Nepali (Dancing Yak, San Francisco)
+* Brunch (Southern Kitchen Los Gatos, Los Gatos)
 
 #### Bars
 * 83 Proof, San Francisco
