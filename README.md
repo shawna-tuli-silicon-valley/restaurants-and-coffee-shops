@@ -73,6 +73,7 @@
 * Grill 57, New York
 * Main Street Burgers, Los Gatos
 * Manresa Bread, Los Gatos
+* Mr. Pickle's Sandwich Shop, Los Gatos
 
 4. Thai
 * Coup de Thai, Los Gatos
