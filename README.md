@@ -101,6 +101,7 @@
 * Chipotle Mexican Grill, San Jose
 * Los Tacos No. 1, New York
 * Puesto, Santa Clara
+* El Cantaro, Monterey
 
 #### Other Cuisines
 
