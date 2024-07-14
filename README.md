@@ -87,6 +87,7 @@
 * Mint Leaf Cuisine, Saratoga
 * Amarin Thai Cuisine, San Jose
 * Thai Nakorn, San Bruno
+* Pineapple Village, Gilroy
 
 5. Mexican
 * Andalé, Los Gatos
