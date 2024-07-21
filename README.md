@@ -27,6 +27,7 @@
 * Rowdy Rooster, New York
 * Karahi Indian Cuisine Karahi, New York
 * Patiala Indian Grill and Bar, New York
+* Ambrosia India Bistro, Los Gatos
 
 3. American
 * Bix, San Francisco
