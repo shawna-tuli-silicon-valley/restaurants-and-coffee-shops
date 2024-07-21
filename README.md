@@ -136,7 +136,7 @@
 * German (Das Bierhauz, Mountain View)
 * Nepali (Dancing Yak, San Francisco)
 * Brunch (Southern Kitchen Los Gatos, Los Gatos)
-* Venezuelan (Coupa Cafe - Ramona)
+* Venezuelan (Coupa Cafe - Ramona, Palo Alto)
 
 #### Bars
 * 83 Proof, San Francisco
