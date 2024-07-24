@@ -138,6 +138,7 @@
 * Nepali (Dancing Yak, San Francisco)
 * Brunch (Southern Kitchen Los Gatos, Los Gatos)
 * Venezuelan (Coupa Cafe - Ramona, Palo Alto)
+* Breakfast (Peacock Pansy, San Francisco)
 
 #### Bars
 * 83 Proof, San Francisco
