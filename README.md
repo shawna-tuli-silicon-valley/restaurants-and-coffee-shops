@@ -76,6 +76,7 @@
 * Manresa Bread, Los Gatos
 * Mr. Pickle's Sandwich Shop, Los Gatos
 * Blast & Brew, San Jose
+* Palmetto Superfoods, San Jose
 
 4. Thai
 * Coup de Thai, Los Gatos
@@ -109,7 +110,7 @@
 #### Other Cuisines
 
 * Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose)
-* South Indian (Madras Café, Sunnyvale)
+* South Indian (Madras Café, Sunnyvale; Dosa Biryanizz Chaat Cafe, Fremont)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell; Taverna, Palo Alto)
 * Mediterranean (Fig & Olive, Newport Beach; Olea Social, London; Falafel Stop, Sunnyvale)
