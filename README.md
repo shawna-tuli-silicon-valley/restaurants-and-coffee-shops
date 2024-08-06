@@ -106,7 +106,6 @@
 * Los Tacos No. 1, New York
 * Puesto, Santa Clara
 * El Cantaro, Monterey
-* LUNA Mexican Kitchen, San Jose
 
 #### Other Cuisines
 
