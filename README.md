@@ -106,6 +106,7 @@
 * Los Tacos No. 1, New York
 * Puesto, Santa Clara
 * El Cantaro, Monterey
+* El Tapatio, Pleasant Hill
 
 #### Other Cuisines
 
