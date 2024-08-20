@@ -117,7 +117,7 @@
 * Mediterranean (Fig & Olive, Newport Beach; Olea Social, London; Falafel Stop, Sunnyvale)
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
-* Asian (Straits, San Jose)
+* Asian (Straits, San Jose; Spice Kit, San Francisco)
 * Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (Gen Korean BBQ House, Irvine; BCD Tofu House, Irvine)
