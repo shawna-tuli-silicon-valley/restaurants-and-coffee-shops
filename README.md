@@ -91,6 +91,7 @@
 * Amarin Thai Cuisine, San Jose
 * Thai Nakorn, San Bruno
 * Pineapple Village, Gilroy
+* Thai Bangkok Cuisine, Cupertino
 
 5. Mexican
 * Andalé, Los Gatos
