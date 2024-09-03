@@ -28,6 +28,7 @@
 * Karahi Indian Cuisine Karahi, New York
 * Patiala Indian Grill and Bar, New York
 * Ambrosia India Bistro, Los Gatos
+* Mantra India Restaurant & Bar, Mountain View
 
 3. American
 * Bix, San Francisco
