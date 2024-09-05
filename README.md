@@ -154,4 +154,8 @@
 * The Wine Room, Palo Alto
 * Vbar, San Jose
 * Sports Page, Mountain View
+
+#### Coffee Shops
+* Philz Coffee, Los Gatos
+* Peet's Coffee, Los Gatos
   
