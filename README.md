@@ -156,6 +156,10 @@
 * Sports Page, Mountain View
 
 #### Coffee Shops
+* Balboa Lily's, Newport Beach
 * Philz Coffee, Los Gatos
 * Peet's Coffee, Los Gatos
+* Red Rock Coffee, Mountain View
+* Starbucks Coffee, Mountain View
+* 7 Leaves Cafe, San Jose
   
