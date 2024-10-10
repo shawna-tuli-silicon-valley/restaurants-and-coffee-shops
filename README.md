@@ -117,7 +117,7 @@
 * South Indian (Madras Café, Sunnyvale; Dosa Biryanizz Chaat Cafe, Fremont)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell; Taverna, Palo Alto)
-* Mediterranean (Fig & Olive, Newport Beach; Olea Social, London; Falafel Stop, Sunnyvale)
+* Mediterranean (Fig & Olive, Newport Beach; Olea Social, London; Falafel Stop, Sunnyvale; Mediterranean Grill House, Mountain View)
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose; Spice Kit, San Francisco)
