@@ -79,6 +79,7 @@
 * Blast & Brew, San Jose
 * Palmetto Superfoods, San Jose
 * Izzy's Brooklyn Bagels, Palo Alto
+* Costco, Mountain View
 
 4. Thai
 * Coup de Thai, Los Gatos
