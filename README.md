@@ -80,6 +80,7 @@
 * Palmetto Superfoods, San Jose
 * Izzy's Brooklyn Bagels, Palo Alto
 * Costco, Mountain View
+* Boudin Bakery Cafe, San Francisco
 
 4. Thai
 * Coup de Thai, Los Gatos
