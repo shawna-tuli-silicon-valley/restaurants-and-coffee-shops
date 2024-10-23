@@ -149,7 +149,6 @@
 
 #### Bars
 * 83 Proof, San Francisco
-* International Smoke, San Francisco
 * ZOE Cocktail Bar & Bites, San Francisco
 * Novela, San Francisco
 * El Jardin Tequila Bar, San Jose
