@@ -164,4 +164,5 @@
 * Red Rock Coffee, Mountain View
 * Starbucks Coffee, Mountain View
 * 7 Leaves Cafe, San Jose
+* Blue Bottle Coffee, Palo Alto and San Jose
   
