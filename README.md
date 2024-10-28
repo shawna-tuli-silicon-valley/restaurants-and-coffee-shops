@@ -165,4 +165,6 @@
 * Starbucks Coffee, Mountain View
 * 7 Leaves Cafe, San Jose
 * Blue Bottle Coffee, Palo Alto and San Jose
+* Kona Loa Coffee, Irvine
+* Teaspoon, Mountain View
   
