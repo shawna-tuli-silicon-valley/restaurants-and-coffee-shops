@@ -146,6 +146,7 @@
 * Brunch (Southern Kitchen Los Gatos, Los Gatos)
 * Venezuelan (Coupa Cafe - Ramona, Palo Alto)
 * Breakfast (Peacock Pansy, San Francisco)
+* British (Pret a Manger, New York)
 
 #### Bars
 * 83 Proof, San Francisco
