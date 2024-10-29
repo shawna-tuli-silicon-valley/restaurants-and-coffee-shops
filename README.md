@@ -81,6 +81,8 @@
 * Izzy's Brooklyn Bagels, Palo Alto
 * Costco, Mountain View
 * Boudin Bakery Cafe, San Francisco
+* Cascade Cafe, New York
+* The Bodega - Accenture, New York 
 
 4. Thai
 * Coup de Thai, Los Gatos
