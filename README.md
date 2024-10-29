@@ -137,7 +137,7 @@
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York; Vida Tapas Y Cocteles, Mountain View)
 * Israeli (Orens Hummus, Los Gatos)
-* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos)
+* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York)
 * International (Noodles and Company, San Jose)
 * Irish (The Mean Fiddler, New York)
 * Indian-Chinese (Spice Symphony, New York)
