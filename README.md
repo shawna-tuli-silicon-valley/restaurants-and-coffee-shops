@@ -20,13 +20,13 @@
 * Desi Contemporary Indian Casual & Gabru Bar, Campbell
 * Chaat Cafe, San Jose
 * Sakoon, Fremont
-* Masala King, New York
-* Saravana Bhavan, New York
-* Samudra, New York
+* Masala King, New York City
+* Saravana Bhavan, New York City
+* Samudra, New York City
 * Vik's Chaat House, Berkeley
-* Rowdy Rooster, New York
-* Karahi Indian Cuisine Karahi, New York
-* Patiala Indian Grill and Bar, New York
+* Rowdy Rooster, New York City
+* Karahi Indian Cuisine Karahi, New York City
+* Patiala Indian Grill and Bar, New York City
 * Ambrosia India Bistro, Los Gatos
 * Mantra India Restaurant & Bar, Mountain View
 
@@ -50,7 +50,7 @@
 * The Cheesecake Factory, San Jose
 * MOD Pizza, San Jose
 * Son & Garden, Menlo Park
-* Joe's Pizza, New York
+* Joe's Pizza, New York City
 * Wingstop, San Jose
 * Starbird Chicken, Campbell
 * Ike's Love & Sandwiches, San Jose
@@ -70,9 +70,9 @@
 * Mo's Campbell, Campbell
 * Le Boulanger, San Jose
 * Willow Street Wood-Fired Pizza, Los Gatos
-* Westville, New York
+* Westville, New York City
 * Souplantation, Irvine
-* Grill 57, New York
+* Grill 57, New York City
 * Main Street Burgers, Los Gatos
 * Manresa Bread, Los Gatos
 * Mr. Pickle's Sandwich Shop, Los Gatos
@@ -81,8 +81,8 @@
 * Izzy's Brooklyn Bagels, Palo Alto
 * Costco, Mountain View
 * Boudin Bakery Cafe, San Francisco
-* Cascade Cafe, New York
-* The Bodega - Accenture, New York 
+* Cascade Cafe, New York City
+* The Bodega - Accenture, New York City
 
 4. Thai
 * Coup de Thai, Los Gatos
@@ -91,7 +91,7 @@
 * Tommy Thai, Mountain View
 * Thai Spice, Irvine
 * Mint Leaf Thai Cuisine, Newport Beach
-* Thai Villa, New York
+* Thai Villa, New York City
 * New Krungthai Restaurant, San Jose
 * Mint Leaf Cuisine, Saratoga
 * Amarin Thai Cuisine, San Jose
@@ -110,10 +110,11 @@
 * Pedro's Restaurant & Cantina, Santa Clara
 * Sun of Wolf, Palo Alto
 * Chipotle Mexican Grill, San Jose
-* Los Tacos No. 1, New York
+* Los Tacos No. 1, New York City
 * Puesto, Santa Clara
 * El Cantaro, Monterey
 * El Tapatio, Pleasant Hill
+* Sombrero, New York City
 
 #### Other Cuisines
 
@@ -137,10 +138,10 @@
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York; Vida Tapas Y Cocteles, Mountain View)
 * Israeli (Orens Hummus, Los Gatos)
-* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York; La Masseria, New York; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York)
+* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York City; La Masseria, New York City; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York City)
 * International (Noodles and Company, San Jose)
-* Irish (The Mean Fiddler, New York)
-* Indian-Chinese (Spice Symphony, New York)
+* Irish (The Mean Fiddler, New York City)
+* Indian-Chinese (Spice Symphony, New York City)
 * California (Playa Betty's, New York; California Pizza Kitchen, Palo Alto)
 * New American (Steins Beer Garden & Restaurant, Mountain View)
 * German (Das Bierhauz, Mountain View)
@@ -148,7 +149,7 @@
 * Brunch (Southern Kitchen Los Gatos, Los Gatos)
 * Venezuelan (Coupa Cafe - Ramona, Palo Alto)
 * Breakfast (Peacock Pansy, San Francisco)
-* British (Pret a Manger, New York)
+* British (Pret a Manger, New York City)
 
 #### Bars
 * 83 Proof, San Francisco
