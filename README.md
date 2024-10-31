@@ -170,4 +170,9 @@
 * Blue Bottle Coffee, Palo Alto and San Jose
 * Kona Loa Coffee, Irvine
 * Teaspoon, Mountain View
+
+#### Dessert Shops
+* Magnolia Bakery, New York City
+* Icing on the Cake, Los Gatos
+* Nothing Bundt Cakes, San Jose
   
