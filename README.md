@@ -98,6 +98,7 @@
 * Thai Nakorn, San Bruno
 * Pineapple Village, Gilroy
 * Thai Bangkok Cuisine, Cupertino
+* Thai Orchard, Campbell
 
 5. Mexican
 * Andalé, Los Gatos
