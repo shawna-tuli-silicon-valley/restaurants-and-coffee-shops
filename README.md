@@ -178,4 +178,8 @@
 * Magnolia Bakery, New York City
 * Icing on the Cake, Los Gatos
 * Nothing Bundt Cakes, San Jose
+* ICICLES, Cupertino
+* Beard Papa's, Cupertino
+* Salt & Straw, Palo Alto
+* Ghiradelli, San Francisco
   
