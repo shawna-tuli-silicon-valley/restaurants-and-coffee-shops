@@ -172,6 +172,7 @@
 * Kona Loa Coffee, Irvine
 * Teaspoon, Mountain View
 * Voyager Craft Coffee, San Jose
+* Coupa Cafe, Palo Alto
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
