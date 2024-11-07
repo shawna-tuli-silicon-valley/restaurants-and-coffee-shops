@@ -173,6 +173,8 @@
 * Teaspoon, Mountain View
 * Voyager Craft Coffee, San Jose
 * Coupa Cafe, Palo Alto
+* Los Gatos Coffee Roasting Company, Los Gatos
+* Great Bear Coffee Roasting, Los Gatos
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
