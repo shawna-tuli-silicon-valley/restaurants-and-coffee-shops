@@ -185,4 +185,8 @@
 * Salt & Straw, Palo Alto
 * Ghiradelli, San Francisco
 * Gelato Classico Italian Ice Cream, Mountain View
+* Cold Stone Creamery, San Jose
+* Willow Glen Creamery, San Jose
+* Baskin-Robbins, San Jose
+* Ben & Jerry's, New York City
   
