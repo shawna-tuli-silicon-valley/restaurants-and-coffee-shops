@@ -184,4 +184,5 @@
 * Beard Papa's, Cupertino
 * Salt & Straw, Palo Alto
 * Ghiradelli, San Francisco
+* Gelato Classico Italian Ice Cream, Mountain View
   
