@@ -189,4 +189,5 @@
 * Willow Glen Creamery, San Jose
 * Baskin-Robbins, San Jose
 * Ben & Jerry's, New York City
+* Dolce Spazio Gelato, Los Gatos
   
