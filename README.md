@@ -190,4 +190,6 @@
 * Baskin-Robbins, San Jose
 * Ben & Jerry's, New York City
 * Dolce Spazio Gelato, Los Gatos
+* Marianne's Ice Cream, Santa Cruz
+* The Penny Ice Creamery, Santa Cruz
   
