@@ -116,6 +116,7 @@
 * El Cantaro, Monterey
 * El Tapatio, Pleasant Hill
 * Sombrero, New York City
+* Thai Soul Kitchen, Almaden
 
 #### Other Cuisines
 
