@@ -83,6 +83,7 @@
 * Boudin Bakery Cafe, San Francisco
 * Cascade Cafe, New York City
 * The Bodega - Accenture, New York City
+* Urban Plates, Sunnyvale
 
 4. Thai
 * Coup de Thai, Los Gatos
