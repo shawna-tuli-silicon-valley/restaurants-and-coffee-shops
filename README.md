@@ -194,4 +194,5 @@
 * Dolce Spazio Gelato, Los Gatos
 * Marianne's Ice Cream, Santa Cruz
 * The Penny Ice Creamery, Santa Cruz
+* Bacio di Latte, Newport Beach
   
