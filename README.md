@@ -84,6 +84,7 @@
 * Cascade Cafe, New York City
 * The Bodega - Accenture, New York City
 * Urban Plates, Sunnyvale
+* Whole Foods, New York City
 
 4. Thai
 * Coup de Thai, Los Gatos
@@ -129,7 +130,7 @@
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose; Spice Kit, San Francisco)
-* Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine)
+* Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine; Harborview Restaurant & Bar, San Francisco)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (Gen Korean BBQ House, Irvine; BCD Tofu House, Irvine)
 * Vietnamese (North Restaurant, Los Gatos; Le Colonial, San Francisco)
