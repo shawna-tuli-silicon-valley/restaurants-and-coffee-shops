@@ -85,6 +85,7 @@
 * The Bodega - Accenture, New York City
 * Urban Plates, Sunnyvale
 * Whole Foods, New York City
+* Blaze Pizza, Fremont
 
 4. Thai
 * Coup de Thai, Los Gatos
