@@ -155,6 +155,7 @@
 * Venezuelan (Coupa Cafe - Ramona, Palo Alto)
 * Breakfast (Peacock Pansy, San Francisco)
 * British (Pret a Manger, New York City)
+* New York (Noah's NY Bagels, San Francisco)
 
 #### Bars
 * 83 Proof, San Francisco
