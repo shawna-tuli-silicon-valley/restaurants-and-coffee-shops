@@ -164,6 +164,7 @@
 * The Wine Room, Palo Alto
 * Vbar, San Jose
 * Sports Page, Mountain View
+* Hotel Valencia Santana Row, San Jose
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
