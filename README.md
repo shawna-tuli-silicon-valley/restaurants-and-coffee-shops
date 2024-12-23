@@ -200,4 +200,5 @@
 * Bacio di Latte, Newport Beach
 * Honeymee, Irvine
 * La Dolce Vita Gelato, San Jose
+* Venchi, London
   
