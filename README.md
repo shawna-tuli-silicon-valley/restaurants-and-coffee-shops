@@ -148,7 +148,7 @@
 * International (Noodles and Company, San Jose)
 * Irish (The Mean Fiddler, New York City)
 * Indian-Chinese (Spice Symphony, New York City)
-* Californian (Playa Betty's, New York City; California Pizza Kitchen, Palo Alto)
+* Californian (Playa Betty's, New York City; California Pizza Kitchen, Palo Alto; Lemonade, Palo Alto)
 * New American (Steins Beer Garden & Restaurant, Mountain View)
 * German (Das Bierhauz, Mountain View)
 * Nepali (Dancing Yak, San Francisco)
