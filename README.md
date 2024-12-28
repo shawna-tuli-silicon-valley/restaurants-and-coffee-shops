@@ -87,6 +87,7 @@
 * Whole Foods, New York City
 * Blaze Pizza, Fremont
 * Big Basin Burger Bar, Saratoga
+* In-N-Out Burger, Mountain View
 
 4. Thai
 * Coup de Thai, Los Gatos
