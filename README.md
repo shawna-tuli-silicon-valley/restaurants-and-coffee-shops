@@ -133,7 +133,7 @@
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
 * Malaysian (Banana Leaf, Milpitas)
 * Asian (Straits, San Jose; Spice Kit, San Francisco)
-* Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine; Harborview Restaurant & Bar, San Francisco)
+* Chinese (Sweet Mango, San Jose; San Tung, San Francisco; P.F. Chang's, Irvine; Harborview Restaurant & Bar, San Francisco; Dumpling House, San Francisco)
 * Taiwanese (Din Tai Fung, Irvine)
 * Korean (Gen Korean BBQ House, Irvine; BCD Tofu House, Irvine)
 * Vietnamese (North Restaurant, Los Gatos; Le Colonial, San Francisco)
@@ -168,6 +168,7 @@
 * Vbar, San Jose
 * Sports Page, Mountain View
 * Hotel Valencia Santana Row, San Jose
+* Smuggler's Cove, San Francisco
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
