@@ -152,7 +152,7 @@
 * Californian (Playa Betty's, New York City; California Pizza Kitchen, Palo Alto; Lemonade, Palo Alto)
 * New American (Steins Beer Garden & Restaurant, Mountain View)
 * German (Das Bierhauz, Mountain View)
-* Nepali (Dancing Yak, San Francisco)
+* Nepali (Dancing Yak, San Francisco; Yarsa Nepalese Cuisine, San Francisco)
 * Brunch (Southern Kitchen Los Gatos, Los Gatos)
 * Venezuelan (Coupa Cafe - Ramona, Palo Alto)
 * Breakfast (Peacock Pansy, San Francisco)
