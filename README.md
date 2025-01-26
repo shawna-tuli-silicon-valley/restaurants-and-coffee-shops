@@ -205,4 +205,5 @@
 * Honeymee, Irvine
 * La Dolce Vita Gelato, San Jose
 * Venchi, London
+* Matcha Cafe Maiko, San Francisco
   
