@@ -104,6 +104,7 @@
 * Pineapple Village, Gilroy
 * Thai Bangkok Cuisine, Cupertino
 * Thai Orchard, Campbell
+* Sala Thai Restaurant, Fremont
 
 5. Mexican
 * Andalé, Los Gatos
