@@ -123,6 +123,7 @@
 * El Tapatio, Pleasant Hill
 * Sombrero, New York City
 * Thai Soul Kitchen, Almaden
+* Casa Lupe, Mountain View 
 
 #### Other Cuisines
 
