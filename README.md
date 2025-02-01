@@ -10,7 +10,8 @@
 * Deliwala Chaat, Sunnyvale
 * Shah Restaurant, Sunnyvale
 * Dishoom, London
-* The Yellow Chili by Sanjeev Kapoor, Santa Clara & Tustin
+* The Yellow Chili by Sanjeev Kapoor, Santa Clara
+* The Yellow Chili by Sanjeev Kapoor, Tustin
 * North India Restaurant, San Francisco
 * Chaat Bhavan, Sunnyvale
 * Spice Affair, Beverly Hills
