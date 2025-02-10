@@ -2,6 +2,8 @@
 1. Punjabi
 * Kabab & Curry's, San Jose
 * Urban Kitchen, Newark
+* Apni Mandi Farmers Market, Sunnyvale
+* Apni Mandi Farmers Market, Fremont
 
 2. North Indian
 * Cafe Baadal, Mountain View
