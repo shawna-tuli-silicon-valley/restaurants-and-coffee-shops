@@ -164,17 +164,6 @@
 * British (Pret a Manger, New York City)
 * New York (Noah's NY Bagels, San Francisco)
 
-#### Bars
-* 83 Proof, San Francisco
-* ZOE Cocktail Bar & Bites, San Francisco
-* Novela, San Francisco
-* El Jardin Tequila Bar, San Jose
-* The Wine Room, Palo Alto
-* Vbar, San Jose
-* Sports Page, Mountain View
-* Hotel Valencia Santana Row, San Jose
-* Smuggler's Cove, San Francisco
-
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
 * Philz Coffee, Los Gatos
@@ -212,3 +201,13 @@
 * Venchi, London
 * Matcha Cafe Maiko, San Francisco
   
+#### Bars
+* 83 Proof, San Francisco
+* ZOE Cocktail Bar & Bites, San Francisco
+* Novela, San Francisco
+* El Jardin Tequila Bar, San Jose
+* The Wine Room, Palo Alto
+* Vbar, San Jose
+* Sports Page, Mountain View
+* Hotel Valencia Santana Row, San Jose
+* Smuggler's Cove, San Francisco
