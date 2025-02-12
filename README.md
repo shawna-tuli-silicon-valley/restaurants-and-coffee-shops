@@ -87,10 +87,13 @@
 * Cascade Cafe, New York City
 * The Bodega - Accenture, New York City
 * Urban Plates, Sunnyvale
-* Whole Foods, New York City
 * Blaze Pizza, Fremont
 * Big Basin Burger Bar, Saratoga
 * In-N-Out Burger, Mountain View
+* Whole Foods, New York City
+* Whole Foods, Almaden
+* Whole Foods, Los Gatos
+* Whole Foods, Mountain View
 
 4. Thai
 * Coup de Thai, Los Gatos
