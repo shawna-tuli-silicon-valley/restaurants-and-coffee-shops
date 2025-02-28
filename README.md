@@ -129,7 +129,8 @@
 * El Tapatio, Pleasant Hill
 * Sombrero, New York City
 * Thai Soul Kitchen, Almaden
-* Casa Lupe, Mountain View 
+* Casa Lupe, Mountain View
+* Agave Mexican Bistro, Mountain View 
 
 #### Other Cuisines
 
