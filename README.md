@@ -206,6 +206,7 @@
 * La Dolce Vita Gelato, San Jose
 * Venchi, London
 * Matcha Cafe Maiko, San Francisco
+* Mrs. Fields, San Jose
   
 #### Bars
 * 83 Proof, San Francisco
