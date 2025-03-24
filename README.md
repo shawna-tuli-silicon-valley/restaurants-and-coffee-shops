@@ -169,6 +169,7 @@
 * British (Pret a Manger, New York City)
 * New York (Noah's NY Bagels, San Francisco)
 * Peruvian (Suspiro, San Jose)
+* Hawaiian (L&L Hawaiian Barbecue, Irvine)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
