@@ -185,6 +185,7 @@
 * Coupa Cafe, Palo Alto
 * Los Gatos Coffee Roasting Company, Los Gatos
 * Great Bear Coffee Roasting, Los Gatos
+* Yi Fang Taiwan Fruit Tea, Mountain View
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
