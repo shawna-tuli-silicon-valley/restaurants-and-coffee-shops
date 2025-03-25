@@ -216,6 +216,7 @@
 * Paris Baguette, Irvine
 * Alexander Patisserie, Mountain View
 * Cheesecake Factory, San Jose
+* Charlie's Cheesecake Works, San Jose
   
 #### Bars
 * 83 Proof, San Francisco
