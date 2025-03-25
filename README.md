@@ -215,6 +215,7 @@
 * Maison Alyzée, Mountain View
 * Paris Baguette, Irvine
 * Alexander Patisserie, Mountain View
+* Cheesecake Factory, San Jose
   
 #### Bars
 * 83 Proof, San Francisco
