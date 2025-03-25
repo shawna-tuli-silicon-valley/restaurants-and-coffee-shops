@@ -186,6 +186,9 @@
 * Los Gatos Coffee Roasting Company, Los Gatos
 * Great Bear Coffee Roasting, Los Gatos
 * Yi Fang Taiwan Fruit Tea, Mountain View
+* Peet's Coffee, Mountain View
+* Starbucks Coffee, San Jose
+* Teaspoon, San Jose
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
@@ -209,6 +212,9 @@
 * Venchi, London
 * Matcha Cafe Maiko, San Francisco
 * Mrs. Fields, San Jose
+* Maison Alyzée, Mountain View
+* Paris Baguette, Irvine
+* Alexander Patisserie, Mountain View
   
 #### Bars
 * 83 Proof, San Francisco
