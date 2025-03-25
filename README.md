@@ -95,6 +95,7 @@
 * Whole Foods, Los Gatos
 * Whole Foods, Mountain View
 * Blue Line Pizza, Mountain View
+* Chili's Grill & Bar, Mountain View
 
 4. Thai
 * Coup de Thai, Los Gatos
