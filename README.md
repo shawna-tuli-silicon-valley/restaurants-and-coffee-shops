@@ -96,6 +96,7 @@
 * Whole Foods, Mountain View
 * Blue Line Pizza, Mountain View
 * Chili's Grill & Bar, Mountain View
+* Papa Johns Pizza, San Francisco
 
 4. Thai
 * Coup de Thai, Los Gatos
