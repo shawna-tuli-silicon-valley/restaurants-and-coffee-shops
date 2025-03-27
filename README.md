@@ -32,6 +32,7 @@
 * Patiala Indian Grill and Bar, New York City
 * Ambrosia India Bistro, Los Gatos
 * Mantra India Restaurant & Bar, Mountain View
+* Everest Cuisine, Mountain View
 
 3. American
 * Bix, San Francisco
