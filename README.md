@@ -193,6 +193,7 @@
 * Peet's Coffee, Mountain View
 * Starbucks Coffee, San Jose
 * Teaspoon, San Jose
+* Sana’a Cafe, Mountain View
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
