@@ -174,6 +174,7 @@
 * New York (Noah's NY Bagels, San Francisco)
 * Peruvian (Suspiro, San Jose)
 * Hawaiian (L&L Hawaiian Barbecue, Irvine)
+* Cal-Asian (Dumpling Time, San Jose)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
