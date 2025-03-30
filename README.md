@@ -33,6 +33,7 @@
 * Ambrosia India Bistro, Los Gatos
 * Mantra India Restaurant & Bar, Mountain View
 * Everest Cuisine, Mountain View
+* Rooh, San Francisco
 
 3. American
 * Bix, San Francisco
