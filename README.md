@@ -4,6 +4,8 @@
 * Urban Kitchen, Newark
 * Apni Mandi Farmers Market, Sunnyvale
 * Apni Mandi Farmers Market, Fremont
+* Sikh Gurdwara San Jose, San Jose
+* Gurdwara Sahib Fremont, Fremont
 
 2. North Indian
 * Cafe Baadal, Mountain View
