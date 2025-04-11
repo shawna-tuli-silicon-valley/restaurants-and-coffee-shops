@@ -138,7 +138,8 @@
 * Sombrero, New York City
 * Thai Soul Kitchen, Almaden
 * Casa Lupe, Mountain View
-* Agave Mexican Bistro, Mountain View 
+* Agave Mexican Bistro, Mountain View
+* Diablo's Cantina, Vegas
 
 #### Other Cuisines
 
