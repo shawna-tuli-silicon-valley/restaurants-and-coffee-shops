@@ -140,6 +140,7 @@
 * Casa Lupe, Mountain View
 * Agave Mexican Bistro, Mountain View
 * Diablo's Cantina, Vegas
+* Hussong's Mexican Cantina, Las Vegas
 
 #### Other Cuisines
 
@@ -199,6 +200,7 @@
 * Starbucks Coffee, San Jose
 * Teaspoon, San Jose
 * Sana’a Cafe, Mountain View
+* Starbucks Coffee, Las Vegas
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
