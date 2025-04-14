@@ -36,6 +36,7 @@
 * Mantra India Restaurant & Bar, Mountain View
 * Everest Cuisine, Mountain View
 * Rooh, San Francisco
+* Zareen's, Palo Alto
 
 3. American
 * Bix, San Francisco
