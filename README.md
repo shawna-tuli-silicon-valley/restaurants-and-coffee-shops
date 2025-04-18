@@ -103,6 +103,7 @@
 * Chili's Grill & Bar, Mountain View
 * Papa Johns Pizza, San Francisco
 * Mendocino Farms, San Francisco
+* In-N-Out Burger, San Jose
 
 4. Thai
 * Coup de Thai, Los Gatos
