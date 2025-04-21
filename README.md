@@ -104,6 +104,7 @@
 * Papa Johns Pizza, San Francisco
 * Mendocino Farms, San Francisco
 * In-N-Out Burger, San Jose
+* Portage Bay Cafe, Seattle
 
 4. Thai
 * Coup de Thai, Los Gatos
@@ -121,6 +122,7 @@
 * Thai Bangkok Cuisine, Cupertino
 * Thai Orchard, Campbell
 * Sala Thai Restaurant, Fremont
+* Noi Thai Cuisine, Seattle
 
 5. Mexican
 * Andalé, Los Gatos
@@ -143,6 +145,7 @@
 * Agave Mexican Bistro, Mountain View
 * Diablo's Cantina, Vegas
 * Hussong's Mexican Cantina, Las Vegas
+* The Matador, Seattle
 
 #### Other Cuisines
 
