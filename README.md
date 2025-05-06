@@ -123,6 +123,7 @@
 * Thai Orchard, Campbell
 * Sala Thai Restaurant, Fremont
 * Noi Thai Cuisine, Seattle
+* Erawan Thai Cuisine, Almaden
 
 5. Mexican
 * Andalé, Los Gatos
