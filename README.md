@@ -235,6 +235,7 @@
 * Paris Baguette, Irvine
 * Alexander Patisserie, Mountain View
 * Cheesecake Factory, San Jose
+* Uncle Tetsu's Cheesecake, San Jose
 * Charlie's Cheesecake Works, San Jose
   
 #### Bars
