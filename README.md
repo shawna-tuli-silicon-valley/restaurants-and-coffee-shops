@@ -207,6 +207,7 @@
 * Teaspoon, San Jose
 * Sana’a Cafe, Mountain View
 * Starbucks Coffee, Las Vegas
+* Starbucks Coffee, Irvine
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
