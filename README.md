@@ -105,6 +105,7 @@
 * Mendocino Farms, San Francisco
 * In-N-Out Burger, San Jose
 * Portage Bay Cafe, Seattle
+* Noah's Bagels, San Francisco
 
 4. Thai
 * Coup de Thai, Los Gatos
@@ -178,7 +179,7 @@
 * New American (Steins Beer Garden & Restaurant, Mountain View)
 * German (Das Bierhauz, Mountain View)
 * Nepali (Dancing Yak, San Francisco; Yarsa Nepalese Cuisine, San Francisco)
-* Brunch (Southern Kitchen Los Gatos, Los Gatos)
+* Brunch (Southern Kitchen Los Gatos, Los Gatos; Fort Mason Center Farmers' Market, San Francisco)
 * Venezuelan (Coupa Cafe - Ramona, Palo Alto)
 * Breakfast (Peacock Pansy, San Francisco)
 * British (Pret a Manger, New York City)
