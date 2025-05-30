@@ -148,6 +148,7 @@
 * Diablo's Cantina, Vegas
 * Hussong's Mexican Cantina, Las Vegas
 * The Matador, Seattle
+* Uno Dos Tacos, San Francisco
 
 #### Other Cuisines
 
