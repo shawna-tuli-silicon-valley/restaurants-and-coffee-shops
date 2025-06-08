@@ -106,6 +106,7 @@
 * In-N-Out Burger, San Jose
 * Portage Bay Cafe, Seattle
 * Noah's Bagels, San Francisco
+* Lazy Dog Restaurant & Bar, Almaden
 
 4. Thai
 * Coup de Thai, Los Gatos
