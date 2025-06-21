@@ -126,6 +126,7 @@
 * Sala Thai Restaurant, Fremont
 * Noi Thai Cuisine, Seattle
 * Erawan Thai Cuisine, Almaden
+* Amarin Thai Cuisine, Mountain View
 
 5. Mexican
 * Andalé, Los Gatos
