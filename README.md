@@ -246,6 +246,8 @@
 * Charlie's Cheesecake Works, San Jose
 * Teaspoon, Los Altos
 * Tong Sui, Sunnyvale
+* Sprinkles, Palo Alto
+* SusieCakes, Willow Glen
   
 #### Bars
 * 83 Proof, San Francisco
