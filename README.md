@@ -244,6 +244,8 @@
 * Cheesecake Factory, San Jose
 * Uncle Tetsu's Cheesecake, San Jose
 * Charlie's Cheesecake Works, San Jose
+* Teaspoon, Los Altos
+* Tong Sui, Sunnyvale
   
 #### Bars
 * 83 Proof, San Francisco
