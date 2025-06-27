@@ -107,6 +107,7 @@
 * Portage Bay Cafe, Seattle
 * Noah's Bagels, San Francisco
 * Lazy Dog Restaurant & Bar, Almaden
+* Super Duper Burgers, Los Gatos
 
 4. Thai
 * Coup de Thai, Los Gatos
