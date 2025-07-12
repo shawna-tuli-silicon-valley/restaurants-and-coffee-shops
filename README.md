@@ -218,6 +218,7 @@
 * Starbucks Coffee, Las Vegas
 * Starbucks Coffee, Irvine
 * Peet's Coffee, San Francisco
+* 1 Oz Coffee, Mountain View
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
