@@ -109,6 +109,7 @@
 * Noah's Bagels, San Francisco
 * Lazy Dog Restaurant & Bar, Almaden
 * Super Duper Burgers, Los Gatos
+* Whole Foods, Sacramento
 
 4. Thai
 * Coup de Thai, Los Gatos
