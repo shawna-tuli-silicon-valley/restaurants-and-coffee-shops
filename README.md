@@ -110,6 +110,7 @@
 * Lazy Dog Restaurant & Bar, Almaden
 * Super Duper Burgers, Los Gatos
 * Whole Foods, Sacramento
+* Palmetto Superfoods, Mountain View 
 
 4. Thai
 * Coup de Thai, Los Gatos
