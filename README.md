@@ -82,7 +82,6 @@
 * Hussong's Mexican Cantina, Las Vegas
 * The Matador, Seattle
 * Uno Dos Tacos, San Francisco
-* Puesto, Santa Clara
 
 5. American
 * Bix, San Francisco
