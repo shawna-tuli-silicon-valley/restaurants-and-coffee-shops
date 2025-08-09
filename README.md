@@ -154,7 +154,8 @@
 * Lazy Dog Restaurant & Bar, Almaden
 * Super Duper Burgers, Los Gatos
 * Whole Foods, Sacramento
-* Palmetto Superfoods, Mountain View 
+* Palmetto Superfoods, Mountain View
+* Jamba Juice, Mountain View
 
 #### Other Cuisines
 
