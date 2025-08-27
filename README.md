@@ -255,6 +255,7 @@
 * Tong Sui, Sunnyvale
 * Sprinkles, Palo Alto
 * SusieCakes, Willow Glen
+* Kween's, Mountain View
   
 #### Bars
 * 83 Proof, San Francisco
