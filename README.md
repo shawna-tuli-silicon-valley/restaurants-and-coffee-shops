@@ -156,6 +156,7 @@
 * Whole Foods, Sacramento
 * Palmetto Superfoods, Mountain View
 * Jamba Juice, Mountain View
+* Menlo Tavern, Menlo Park
 
 #### Other Cuisines
 
