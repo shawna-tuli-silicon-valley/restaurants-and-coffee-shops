@@ -157,6 +157,7 @@
 * Palmetto Superfoods, Mountain View
 * Jamba Juice, Mountain View
 * Menlo Tavern, Menlo Park
+* Tony G's Slice House Pizza, San Francisco
 
 #### Other Cuisines
 
