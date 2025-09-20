@@ -199,7 +199,8 @@
 * Cal-Asian (Dumpling Time, San Jose)
 * Indonesian (D'Grobak, San Francisco)
 * Caribbean (BackAYard Caribbean Grill, Campbell)
-* Filipino (On Your Table SF, San Francisco) 
+* Filipino (On Your Table SF, San Francisco)
+* Japanese (Bento Sushi, Irvine)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
