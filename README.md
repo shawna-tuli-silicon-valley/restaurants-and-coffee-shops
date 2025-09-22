@@ -82,6 +82,7 @@
 * Hussong's Mexican Cantina, Las Vegas
 * The Matador, Seattle
 * Uno Dos Tacos, San Francisco
+* Estrellitta Mexican Bistro and Cantina, Los Altos
 
 5. American
 * Bix, San Francisco
