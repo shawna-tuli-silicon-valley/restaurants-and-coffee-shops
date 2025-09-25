@@ -260,6 +260,7 @@
 * Sprinkles, Palo Alto
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
+* Sana'a Cafe, Mountain View
   
 #### Bars
 * 83 Proof, San Francisco
@@ -271,3 +272,4 @@
 * Sports Page, Mountain View
 * Hotel Valencia Santana Row, San Jose
 * Smuggler's Cove, San Francisco
+* Dr. Funk, San Jose
