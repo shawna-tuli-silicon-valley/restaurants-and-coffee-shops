@@ -58,6 +58,7 @@
 * Noi Thai Cuisine, Seattle
 * Erawan Thai Cuisine, Almaden
 * Amarin Thai Cuisine, Mountain View
+* Thai Orchid, Campbell
 
 4. Mexican
 * Andalé, Los Gatos
