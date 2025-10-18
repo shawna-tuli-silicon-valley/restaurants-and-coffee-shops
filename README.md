@@ -38,6 +38,7 @@
 * Rooh, San Francisco
 * Zareen's, Palo Alto
 * Chaat Bhavan, Mountain View
+* Bukhara Grill, New York City
 
 3. Thai
 * Coup de Thai, Los Gatos
