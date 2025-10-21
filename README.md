@@ -161,6 +161,7 @@
 * Jamba Juice, Mountain View
 * Menlo Tavern, Menlo Park
 * Tony G's Slice House Pizza, San Francisco
+* Chopt Creative Salad Co., New York City
 
 #### Other Cuisines
 
