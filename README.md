@@ -162,6 +162,7 @@
 * Menlo Tavern, Menlo Park
 * Tony G's Slice House Pizza, San Francisco
 * Chopt Creative Salad Co., New York City
+* Paris Bar, New York City
 
 #### Other Cuisines
 
