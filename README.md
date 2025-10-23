@@ -60,6 +60,7 @@
 * Erawan Thai Cuisine, Almaden
 * Amarin Thai Cuisine, Mountain View
 * Thai Orchid, Campbell
+* Charoen Krung, New York City
 
 4. Mexican
 * Andalé, Los Gatos
