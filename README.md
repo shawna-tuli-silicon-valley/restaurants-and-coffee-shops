@@ -86,6 +86,7 @@
 * The Matador, Seattle
 * Uno Dos Tacos, San Francisco
 * Estrellitta Mexican Bistro and Cantina, Los Altos
+* Almaden Tacos Al Pastor, Almaden
 
 5. American
 * Bix, San Francisco
