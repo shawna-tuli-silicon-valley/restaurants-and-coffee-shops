@@ -61,6 +61,7 @@
 * Amarin Thai Cuisine, Mountain View
 * Thai Orchid, Campbell
 * Charoen Krung, New York City
+* Khaosan Thai Restaurant, San Jose
 
 4. Mexican
 * Andalé, Los Gatos
