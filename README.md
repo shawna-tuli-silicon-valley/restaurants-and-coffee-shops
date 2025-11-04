@@ -62,6 +62,7 @@
 * Thai Orchid, Campbell
 * Charoen Krung, New York City
 * Khaosan Thai Restaurant, San Jose
+* Khao Thai Restaurant, Saratoga
 
 4. Mexican
 * Andalé, Los Gatos
