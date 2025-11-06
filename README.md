@@ -39,6 +39,7 @@
 * Zareen's, Palo Alto
 * Chaat Bhavan, Mountain View
 * Bukhara Grill, New York City
+* Dawaat Indian Cuisine, San Jose
 
 3. Thai
 * Coup de Thai, Los Gatos
