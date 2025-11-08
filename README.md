@@ -171,7 +171,7 @@
 
 #### Other Cuisines
 
-* Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose)
+* Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose; Bundoo Khan, Fremont)
 * South Indian (Madras Café, Sunnyvale; Dosa Biryanizz Chaat Cafe, Fremont)
 * French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
 * Greek (Opa!, Campbell; Taverna, Palo Alto; Souvla, San Francisco)
