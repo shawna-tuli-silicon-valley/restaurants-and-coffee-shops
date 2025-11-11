@@ -64,6 +64,7 @@
 * Charoen Krung, New York City
 * Khaosan Thai Restaurant, San Jose
 * Khao Thai Restaurant, Saratoga
+* Thai Spice, San Jose
 
 4. Mexican
 * Andalé, Los Gatos
@@ -168,6 +169,7 @@
 * Tony G's Slice House Pizza, San Francisco
 * Chopt Creative Salad Co., New York City
 * Paris Bar, New York City
+* Pie Punks, San Francisco
 
 #### Other Cuisines
 
