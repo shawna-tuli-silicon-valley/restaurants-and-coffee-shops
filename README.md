@@ -65,6 +65,7 @@
 * Khaosan Thai Restaurant, San Jose
 * Khao Thai Restaurant, Saratoga
 * Thai Spice, San Jose
+* Wazuzu, Las Vegas 
 
 4. Mexican
 * Andalé, Los Gatos
@@ -91,6 +92,7 @@
 * Uno Dos Tacos, San Francisco
 * Estrellitta Mexican Bistro and Cantina, Los Altos
 * Almaden Tacos Al Pastor, Almaden
+* El Segundo Sol, Las Vegas
 
 5. American
 * Bix, San Francisco
@@ -213,6 +215,7 @@
 * Caribbean (BackAYard Caribbean Grill, Campbell)
 * Filipino (On Your Table SF, San Francisco)
 * Japanese (Bento Sushi, Irvine)
+* European (Caffé Al Teatro, Las Vegas)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
