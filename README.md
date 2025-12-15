@@ -172,6 +172,7 @@
 * Chopt Creative Salad Co., New York City
 * Paris Bar, New York City
 * Pie Punks, San Francisco
+* Sweetgreen, Mountain View 
 
 #### Other Cuisines
 
