@@ -93,6 +93,8 @@
 * Estrellitta Mexican Bistro and Cantina, Los Altos
 * Almaden Tacos Al Pastor, Almaden
 * El Segundo Sol, Las Vegas
+* La Ribera Restaurant, Puerto Vallarta
+* Andrea Restaurant, Puerto Vallarta
 
 5. American
 * Bix, San Francisco
