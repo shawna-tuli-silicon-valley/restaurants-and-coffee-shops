@@ -174,7 +174,8 @@
 * Chopt Creative Salad Co., New York City
 * Paris Bar, New York City
 * Pie Punks, San Francisco
-* Sweetgreen, Mountain View 
+* Sweetgreen, Mountain View
+* The Posh Bagel, Los Altos
 
 #### Other Cuisines
 
