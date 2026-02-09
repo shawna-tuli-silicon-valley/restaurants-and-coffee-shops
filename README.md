@@ -250,6 +250,7 @@
 * Velas Resorts, Puerto Vallarta
 * Goodhart Coffee, San Francisco
 * Philz Coffee, Los Altos
+* Franko & Coffee, Sausalito
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
