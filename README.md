@@ -178,6 +178,7 @@
 * Sweetgreen, Mountain View
 * The Posh Bagel, Los Altos
 * Aliment, San Francisco
+* Rick's Cafe, Palo Alto
 
 #### Other Cuisines
 
@@ -251,6 +252,7 @@
 * Goodhart Coffee, San Francisco
 * Philz Coffee, Los Altos
 * Franko & Coffee, Sausalito
+* Peet's Coffee, Palo Alto
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
