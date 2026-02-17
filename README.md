@@ -223,7 +223,7 @@
 * Filipino (On Your Table SF, San Francisco)
 * Japanese (Bento Sushi, Irvine)
 * European (Caffé Al Teatro, Las Vegas)
-* Turkish (Cafe Baklava, Mountain VieW)
+* Turkish (Cafe Baklava, Mountain View)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
@@ -288,15 +288,3 @@
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
 * Sana'a Cafe, Mountain View
-  
-#### Bars
-* 83 Proof, San Francisco
-* ZOE Cocktail Bar & Bites, San Francisco
-* Novela, San Francisco
-* El Jardin Tequila Bar, San Jose
-* The Wine Room, Palo Alto
-* Vbar, San Jose
-* Sports Page, Mountain View
-* Hotel Valencia Santana Row, San Jose
-* Smuggler's Cove, San Francisco
-* Dr. Funk, San Jose
