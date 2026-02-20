@@ -179,6 +179,7 @@
 * The Posh Bagel, Los Altos
 * Aliment, San Francisco
 * Rick's Cafe, Palo Alto
+* The Treasury, San Francisco
 
 #### Other Cuisines
 
