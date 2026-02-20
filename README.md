@@ -288,4 +288,3 @@
 * Sprinkles, Palo Alto
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
-* Sana'a Cafe, Mountain View
