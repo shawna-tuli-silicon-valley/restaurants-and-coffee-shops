@@ -243,7 +243,7 @@
 * Yi Fang Taiwan Fruit Tea, Mountain View
 * Peet's Coffee, Mountain View
 * Starbucks Coffee, San Jose
-* Teaspoon, San Jose
+* Teaspoon, Almaden
 * Sana’a Cafe, Mountain View
 * Starbucks Coffee, Las Vegas
 * Starbucks Coffee, Irvine
@@ -254,6 +254,8 @@
 * Philz Coffee, Los Altos
 * Franko & Coffee, Sausalito
 * Peet's Coffee, Palo Alto
+* Peet's Coffee, Almaden
+* Teaspoon, Los Altos
 
 #### Dessert Shops
 * Magnolia Bakery, New York City
@@ -283,8 +285,8 @@
 * Cheesecake Factory, San Jose
 * Uncle Tetsu's Cheesecake, San Jose
 * Charlie's Cheesecake Works, San Jose
-* Teaspoon, Los Altos
 * Tong Sui, Sunnyvale
 * Sprinkles, Palo Alto
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
+* Bacio di Latte, San Jose
