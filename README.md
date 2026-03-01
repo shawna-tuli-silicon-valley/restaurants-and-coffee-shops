@@ -40,7 +40,8 @@
 * Chaat Bhavan, Mountain View
 * Bukhara Grill, New York City
 * Dawaat Indian Cuisine, San Jose
-* Urban Curry And Biryani, Mountain View 
+* Urban Curry And Biryani, Mountain View
+* Jashn, Santa Clara
 
 3. Thai
 * Coup de Thai, Los Gatos
