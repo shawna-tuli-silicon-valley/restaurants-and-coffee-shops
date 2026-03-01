@@ -225,6 +225,7 @@
 * Japanese (Bento Sushi, Irvine)
 * European (Caffé Al Teatro, Las Vegas)
 * Turkish (Cafe Baklava, Mountain View)
+* Northern Californian (Valley Goat, Sunnyvale)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
