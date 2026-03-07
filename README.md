@@ -292,3 +292,4 @@
 * SusieCakes, Willow Glen
 * Kween's, Mountain View
 * Bacio di Latte, San Jose
+* The Penny Ice Creamery, Los Altos
