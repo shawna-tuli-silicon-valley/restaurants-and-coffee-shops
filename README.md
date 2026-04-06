@@ -42,6 +42,7 @@
 * Dawaat Indian Cuisine, San Jose
 * Urban Curry And Biryani, Mountain View
 * Jashn, Santa Clara
+* Khazana, Palo Alto
 
 3. Thai
 * Coup de Thai, Los Gatos
