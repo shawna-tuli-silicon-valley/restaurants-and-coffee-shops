@@ -44,62 +44,7 @@
 * Jashn, Santa Clara
 * Khazana, Palo Alto
 
-3. Thai
-* Coup de Thai, Los Gatos
-* Thai Spice, Los Gatos
-* Must be Thai, San Jose
-* Tommy Thai, Mountain View
-* Thai Spice, Irvine
-* Mint Leaf Thai Cuisine, Newport Beach
-* Thai Villa, New York City
-* New Krungthai Restaurant, San Jose
-* Mint Leaf Cuisine, Saratoga
-* Amarin Thai Cuisine, San Jose
-* Thai Nakorn, San Bruno
-* Pineapple Village, Gilroy
-* Thai Bangkok Cuisine, Cupertino
-* Thai Orchard, Campbell
-* Sala Thai Restaurant, Fremont
-* Noi Thai Cuisine, Seattle
-* Erawan Thai Cuisine, Almaden
-* Amarin Thai Cuisine, Mountain View
-* Thai Orchid, Campbell
-* Charoen Krung, New York City
-* Khaosan Thai Restaurant, San Jose
-* Khao Thai Restaurant, Saratoga
-* Thai Spice, San Jose
-* Wazuzu, Las Vegas 
-
-4. Mexican
-* Andalé, Los Gatos
-* La Victoria Taqueria, San Jose
-* Zazil, San Jose
-* Javier's, Newport Beach
-* SOL Mexican Cocina, Irvine
-* Casa Orozco, Dublin
-* El Amigo, San Jose
-* Pedro's Restaurant & Cantina, Santa Clara
-* Sun of Wolf, Palo Alto
-* Chipotle Mexican Grill, San Jose
-* Los Tacos No. 1, New York City
-* Puesto, Santa Clara
-* El Cantaro, Monterey
-* El Tapatio, Pleasant Hill
-* Sombrero, New York City
-* Thai Soul Kitchen, Almaden
-* Casa Lupe, Mountain View
-* Agave Mexican Bistro, Mountain View
-* Diablo's Cantina, Vegas
-* Hussong's Mexican Cantina, Las Vegas
-* The Matador, Seattle
-* Uno Dos Tacos, San Francisco
-* Estrellitta Mexican Bistro and Cantina, Los Altos
-* Almaden Tacos Al Pastor, Almaden
-* El Segundo Sol, Las Vegas
-* La Ribera Restaurant, Puerto Vallarta
-* Andrea Restaurant, Puerto Vallarta
-
-5. American
+3. American
 * Bix, San Francisco
 * Gordon Ramsay Hell's Kitchen, Las Vegas
 * Scratch, Mountain View
@@ -182,6 +127,61 @@
 * Aliment, San Francisco
 * Rick's Cafe, Palo Alto
 * The Treasury, San Francisco
+
+4. Thai
+* Coup de Thai, Los Gatos
+* Thai Spice, Los Gatos
+* Must be Thai, San Jose
+* Tommy Thai, Mountain View
+* Thai Spice, Irvine
+* Mint Leaf Thai Cuisine, Newport Beach
+* Thai Villa, New York City
+* New Krungthai Restaurant, San Jose
+* Mint Leaf Cuisine, Saratoga
+* Amarin Thai Cuisine, San Jose
+* Thai Nakorn, San Bruno
+* Pineapple Village, Gilroy
+* Thai Bangkok Cuisine, Cupertino
+* Thai Orchard, Campbell
+* Sala Thai Restaurant, Fremont
+* Noi Thai Cuisine, Seattle
+* Erawan Thai Cuisine, Almaden
+* Amarin Thai Cuisine, Mountain View
+* Thai Orchid, Campbell
+* Charoen Krung, New York City
+* Khaosan Thai Restaurant, San Jose
+* Khao Thai Restaurant, Saratoga
+* Thai Spice, San Jose
+* Wazuzu, Las Vegas 
+
+5. Mexican
+* Andalé, Los Gatos
+* La Victoria Taqueria, San Jose
+* Zazil, San Jose
+* Javier's, Newport Beach
+* SOL Mexican Cocina, Irvine
+* Casa Orozco, Dublin
+* El Amigo, San Jose
+* Pedro's Restaurant & Cantina, Santa Clara
+* Sun of Wolf, Palo Alto
+* Chipotle Mexican Grill, San Jose
+* Los Tacos No. 1, New York City
+* Puesto, Santa Clara
+* El Cantaro, Monterey
+* El Tapatio, Pleasant Hill
+* Sombrero, New York City
+* Thai Soul Kitchen, Almaden
+* Casa Lupe, Mountain View
+* Agave Mexican Bistro, Mountain View
+* Diablo's Cantina, Vegas
+* Hussong's Mexican Cantina, Las Vegas
+* The Matador, Seattle
+* Uno Dos Tacos, San Francisco
+* Estrellitta Mexican Bistro and Cantina, Los Altos
+* Almaden Tacos Al Pastor, Almaden
+* El Segundo Sol, Las Vegas
+* La Ribera Restaurant, Puerto Vallarta
+* Andrea Restaurant, Puerto Vallarta
 
 #### Other Cuisines
 
