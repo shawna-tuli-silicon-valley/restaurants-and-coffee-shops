@@ -120,7 +120,6 @@
 * Menlo Tavern, Menlo Park
 * Tony G's Slice House Pizza, San Francisco
 * Chopt Creative Salad Co., New York City
-* Paris Bar, New York City
 * Pie Punks, San Francisco
 * Sweetgreen, Mountain View
 * The Posh Bagel, Los Altos
@@ -188,7 +187,7 @@
 
 * Pakistani (Pakwan Restaurant, San Francisco; Karimi Restaurant, San Jose; Bundoo Khan, Fremont; Shan Restaurant, Santa Clara)
 * South Indian (Madras Café, Sunnyvale; Dosa Biryanizz Chaat Cafe, Fremont)
-* French (Crepevine, Mountain View; Left Bank Brasserie, San Jose)
+* French (Crepevine, Mountain View; Left Bank Brasserie, San Jose; Paris Bar, New York City)
 * Greek (Opa!, Campbell; Taverna, Palo Alto; Souvla, San Francisco)
 * Mediterranean (Fig & Olive, Newport Beach; Olea Social, London; Falafel Stop, Sunnyvale; Mediterranean Grill House, Mountain View; ZAYA, New York City; SAJJ Mediterranean, Mountain View; Mediterranean Grill House, Mountain View)
 * Middle Eastern (Falafel Drive-In, San Jose; Dishdash, Sunnyvale)
