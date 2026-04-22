@@ -127,6 +127,7 @@
 * Aliment, San Francisco
 * Rick's Cafe, Palo Alto
 * The Treasury, San Francisco
+* The Good Salad, Los Altos
 
 4. Thai
 * Coup de Thai, Los Gatos
