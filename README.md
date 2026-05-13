@@ -229,6 +229,7 @@
 * Turkish (Cafe Baklava, Mountain View)
 * Northern Californian (Valley Goat, Sunnyvale)
 * Somalian (Jubba, San Jose)
+* Mexican-Italian (Modi, San Francisco) 
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
