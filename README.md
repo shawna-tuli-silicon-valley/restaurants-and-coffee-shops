@@ -153,7 +153,8 @@
 * Khaosan Thai Restaurant, San Jose
 * Khao Thai Restaurant, Saratoga
 * Thai Spice, San Jose
-* Wazuzu, Las Vegas 
+* Wazuzu, Las Vegas
+* Thai Mama, San Jose
 
 5. Mexican
 * Andalé, Los Gatos
