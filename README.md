@@ -155,6 +155,7 @@
 * Thai Spice, San Jose
 * Wazuzu, Las Vegas
 * Thai Mama, San Jose
+* Blue Mango, San Jose
 
 5. Mexican
 * Andalé, Los Gatos
