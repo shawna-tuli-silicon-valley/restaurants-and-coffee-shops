@@ -44,6 +44,7 @@
 * Urban Curry And Biryani, Mountain View
 * Jashn, Santa Clara
 * Khazana, Palo Alto
+* Chaat Corner, San Francisco 
 
 3. American
 * Bix, San Francisco
@@ -208,7 +209,7 @@
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York City; Vida Tapas Y Cocteles, Mountain View)
 * Israeli (Orens Hummus, Los Gatos)
-* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York City; La Masseria, New York City; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York City; La Fontaine Restaurant, Mountain View; Old Spaghetti Factory, San Diego; Old Spaghetti Factory, San Jose; Delarosa, San Francisco; Miko's Calitalia, Los Altos)
+* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York City; La Masseria, New York City; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York City; La Fontaine Restaurant, Mountain View; Old Spaghetti Factory, San Diego; Old Spaghetti Factory, San Jose; Delarosa, San Francisco; Miko's Calitalia, Los Altos; Vaso Azzurro Restaurant, Mountain View)
 * International (Noodles and Company, San Jose)
 * Irish (The Mean Fiddler, New York City)
 * Indian-Chinese (Spice Symphony, New York City)
