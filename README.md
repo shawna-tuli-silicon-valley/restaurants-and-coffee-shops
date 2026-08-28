@@ -209,7 +209,7 @@
 * Brazilian (Fogo de Chão Brazilian Steakhouse, San Jose)
 * Spanish (Cascal, Mountain View; La Nacional, New York City; Vida Tapas Y Cocteles, Mountain View)
 * Israeli (Orens Hummus, Los Gatos)
-* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York City; La Masseria, New York City; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York City; La Fontaine Restaurant, Mountain View; Old Spaghetti Factory, San Diego; Old Spaghetti Factory, San Jose; Delarosa, San Francisco; Miko's Calitalia, Los Altos; Vaso Azzurro Restaurant, Mountain View)
+* Italian (Itria, San Francisco; Tony's Pizza Napoletana, San Francisco; Maggiano's Little Italy, San Jose; Pizza Antica, San Jose; Eataly, San Jose; Il Fornaio, Santa Clara; Buca di Beppo, Palo Alto; Obicà Mozzarella Bar Pizza e Cucina, New York City; La Masseria, New York City; PaStation, London; Gardino's Ristorante Italiano, Los Gatos; Olive Garden, New York City;  Old Spaghetti Factory, San Diego; Old Spaghetti Factory, San Jose; Delarosa, San Francisco; Miko's Calitalia, Los Altos)
 * International (Noodles and Company, San Jose)
 * Irish (The Mean Fiddler, New York City)
 * Indian-Chinese (Spice Symphony, New York City)
@@ -235,6 +235,7 @@
 * Somalian (Jubba, San Jose)
 * Mexican-Italian (Modi, San Francisco)
 * Neapolitan (Doppio Zero, Mountain View)
+* French-Italian (La Fontaine Restaurant, Mountain View)
 
 #### Coffee Shops
 * Balboa Lily's, Newport Beach
