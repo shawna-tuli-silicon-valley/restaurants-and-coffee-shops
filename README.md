@@ -302,3 +302,4 @@
 * Kween's, Mountain View
 * Bacio di Latte, San Jose
 * The Penny Ice Creamery, Los Altos
+* Rocko's Ice Cream Tacos, Santa Clara 
